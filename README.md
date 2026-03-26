@@ -1,86 +1,88 @@
 # llm_verlan
-basic dataset: verlan_base_forms.csv
-after manuel selection:velan_database.csv
 
-# datasets
-wikitionary(https://en.wiktionary.org/wiki/Category:Verlan) includes 312 relevant pages of verlan, also kaikki(https://kaikki.org/) has already archived the raw and preprocessed of all the words from wikitionary(in .csv format which is easy to use and process ourselves).
+French verlan data collection and embedding experiments. The repository is currently notebook-first, so the structure is organized around reproducible datasets plus local experiment artifacts.
 
-For real life scenarios, we use the datasets from https://opus.nlpl.eu (https://opus.nlpl.eu/datasets/OpenSubtitles?pair=fr&en), which is a collecetion of OpenSubtitles(including the subtitles from all kinds of streaming). And then we extract the sentences containing verlans.
+## Recommended layout
 
-# experiments
-## jellyfish 
-the link of the documents: https://github.com/jamesturk/jellyfish
+```text
+llm_verlan/
+├── README.md
+├── .gitignore
+├── notebooks/                  # notebooks to keep in Git
+│   ├── read_data.ipynb
+│   ├── train_fasttext.ipynb
+│   ├── word_embedding.ipynb
+│   └── openai_embedding.ipynb
+├── data/
+│   ├── raw/                    # local downloads only, do not upload
+│   ├── interim/                # generated intermediate files, usually not tracked
+│   └── processed/              # small curated datasets, keep in Git
+├── artifacts/
+│   ├── models/                 # pretrained / trained model binaries, local only
+│   ├── cache/                  # API or embedding cache, local only
+│   └── figures/                # generated plots, local only by default
+└── outputs/                    # evaluation tables / ad hoc text outputs, local only
+```
 
-`jellyfish` is a Python library for **string matching**. It is mainly used for:
+## What should be maintained in Git and uploaded to GitHub
 
-- **edit distance / string similarity**
-- **phonetic encoding** for words that sound similar
+- `README.md`, `.gitignore`
+- everything under `notebooks/`
+- small, human-curated datasets under `data/processed/`
+- future lightweight source code such as `src/`, `scripts/`, or config files if you add them later
 
-It is useful for tasks like:
+For this repository, the files that are good candidates to keep in Git are:
 
-- typo correction
-- fuzzy matching
-- deduplication
-- record linkage
-- name matching
+- `data/processed/verlan_base_forms.csv`
+- `data/processed/verlan_database.csv`
+- `data/processed/wiktionary_verlan_titles.csv`
 
-### Common functions
+These files are small, important to the project, and useful for collaborators to reproduce your experiments quickly.
 
-- `levenshtein_distance()`  
-  Computes the minimum number of single-character edits needed to change one string into another.
+## What should stay local and not be uploaded
 
-- `damerau_levenshtein_distance()`  
-  Similar to Levenshtein distance, but also allows character transpositions.
+- `data/raw/`
+  Raw downloads such as OPUS / OpenSubtitles dumps and Kaikki or Wiktionary extracts.
+- `data/interim/`
+  Rebuildable files produced from raw data cleaning or filtering.
+- `artifacts/models/`
+  Large binaries such as `cc.fr.300.bin`, `cc.fr.300.bin.gz`, or your trained fastText models.
+- `artifacts/cache/`
+  OpenAI embedding cache or any other cache files.
+- `artifacts/figures/`
+  Generated plots unless you explicitly want one figure versioned for a paper/report.
+- `outputs/`
+  Retrieval tables, neighbor dumps, sentence probes, and other experiment outputs.
 
-- `jaro_similarity()`  
-  Measures similarity between two strings, often useful for short strings like names.
+The rule of thumb is simple:
 
-- `jaro_winkler_similarity()`  
-  A variant of Jaro that gives more weight to matching prefixes.
+- keep small inputs and hand-maintained reference data
+- do not keep large downloads, generated binaries, caches, or one-off outputs
 
-- `hamming_distance()`  
-  Counts how many positions differ between two strings of equal length.
+## Why this split is better
 
-- `soundex()`, `metaphone()`, `nysiis()`, `match_rating_codex()`  
-  Phonetic encoding methods for comparing words by pronunciation.
+- The Git history stays small and usable on GitHub.
+- Collaborators can immediately see what is source data, what is curated data, and what is generated output.
+- Your notebooks become easier to reuse because all paths now follow a consistent convention.
+- It becomes straightforward to later add `src/` or `scripts/` without mixing code and data artifacts in the repository root.
 
-## SpaCy
-The link of official documents: https://spacy.io/models/fr#fr_core_news_lg
+## Notebook workflow
 
-text
-→ tokenizer
-→ tok2vec
-→ morphologizer
-→ parser
-→ attribute_ruler
-→ lemmatizer
-→ ner
-→ annotated Doc
+1. Put downloaded corpora and dictionary dumps into `data/raw/`.
+2. Run `notebooks/read_data.ipynb` to build filtered or curated datasets.
+3. Save reusable small outputs into `data/processed/`.
+4. Save large models to `artifacts/models/`.
+5. Save caches, plots, and experiment outputs to `artifacts/` or `outputs/`.
 
-So the flow is roughly:
+Before running the embedding notebooks, make sure required local assets are placed in the expected folders. For example, `word_embedding.ipynb` expects the pretrained fastText file at `artifacts/models/cc.fr.300.bin`.
 
-- tokenize the text
-- compute token vectors
-- predict morphology / POS
-- predict syntax
-- apply rule-based attribute fixes
-- compute lemmas
-- detect named entities
+## Current data / experiment notes
 
-## Word2Vec
-## Fasttext
-There has been open-source pretrained models:
-https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md
+- `read_data.ipynb` prepares verlan candidate data from Wiktionary or Kaikki-derived sources.
+- `train_fasttext.ipynb` trains a local fastText model on subtitle corpora.
+- `word_embedding.ipynb` compares verlan/base pairs with local embedding models.
+- `openai_embedding.ipynb` evaluates OpenAI embeddings and writes result tables locally.
 
-We distribute pre-trained word vectors for 157 languages, trained on Common Crawl and Wikipedia using fastText. These models were trained using CBOW with position-weights, in dimension 300, with character n-grams of length 5, a window of size 5 and 10 negatives. We also distribute three new word analogy datasets, for French, Hindi and Polish.
+## GitHub note
 
-However, the pretrained datasets normally contains only the formal language materials, but not the informal ones like verlans. So we can actually train a fasttext embedding ourselves using the opensubtitles dataset.
-
-**To do**
-
-## BERT(Camembert)
-https://huggingface.co/docs/transformers/model_doc/camembert
-
-a BERT type transformer model training on a french dataset
-
-We can use it to see 
+Do not push multi-GB files such as subtitle corpora or fastText binary models into normal Git history. If you ever need to publish a medium or large artifact, use GitHub Releases, external storage, or Git LFS instead of regular commits.
