@@ -1,0 +1,12 @@
+{
+  "model_name": "camembert-base",
+  "device": "cuda",
+  "pairs_csv": "data/processed/verlan_probe_pairs.csv",
+  "templates_csv": "data/processed/verlan_probe_templates.csv",
+  "num_pairs": 5,
+  "num_templates": 12,
+  "num_sentence_jobs": 15,
+  "num_completed_jobs": 15,
+  "num_failed_jobs": 0,
+  "attention_available_for_all_jobs": true
+}

@@ -1,0 +1,129 @@
+{
+  "meuf": [
+    {
+      "word": "meufeu",
+      "cosine_similarity": 0.8495047092437744
+    },
+    {
+      "word": "méfu",
+      "cosine_similarity": 0.6415913701057434
+    },
+    {
+      "word": "merdeuf",
+      "cosine_similarity": 0.5960854887962341
+    },
+    {
+      "word": "beurette",
+      "cosine_similarity": 0.592658281326294
+    },
+    {
+      "word": "femme",
+      "cosine_similarity": 0.581869900226593
+    },
+    {
+      "word": "keuf",
+      "cosine_similarity": 0.5641990900039673
+    },
+    {
+      "word": "teufé",
+      "cosine_similarity": 0.5639694333076477
+    },
+    {
+      "word": "feuj",
+      "cosine_similarity": 0.5596533417701721
+    },
+    {
+      "word": "seuf",
+      "cosine_similarity": 0.5437871217727661
+    },
+    {
+      "word": "peufra",
+      "cosine_similarity": 0.5376114845275879
+    }
+  ],
+  "teuf": [
+    {
+      "word": "teufé",
+      "cosine_similarity": 0.9029703736305237
+    },
+    {
+      "word": "treuf",
+      "cosine_similarity": 0.6527950763702393
+    },
+    {
+      "word": "keuf",
+      "cosine_similarity": 0.6159763336181641
+    },
+    {
+      "word": "seuf",
+      "cosine_similarity": 0.5912133455276489
+    },
+    {
+      "word": "teufer",
+      "cosine_similarity": 0.5647997260093689
+    },
+    {
+      "word": "teuch",
+      "cosine_similarity": 0.556473970413208
+    },
+    {
+      "word": "téci",
+      "cosine_similarity": 0.5469416379928589
+    },
+    {
+      "word": "meuf",
+      "cosine_similarity": 0.533554196357727
+    },
+    {
+      "word": "tebé",
+      "cosine_similarity": 0.5302897095680237
+    },
+    {
+      "word": "téco",
+      "cosine_similarity": 0.5216699838638306
+    }
+  ],
+  "keuf": [
+    {
+      "word": "seuf",
+      "cosine_similarity": 0.6721380949020386
+    },
+    {
+      "word": "teuf",
+      "cosine_similarity": 0.6159763336181641
+    },
+    {
+      "word": "teufé",
+      "cosine_similarity": 0.6092668771743774
+    },
+    {
+      "word": "keuss",
+      "cosine_similarity": 0.5978349447250366
+    },
+    {
+      "word": "peufra",
+      "cosine_similarity": 0.5807688236236572
+    },
+    {
+      "word": "reuf",
+      "cosine_similarity": 0.5769460201263428
+    },
+    {
+      "word": "meuf",
+      "cosine_similarity": 0.5641990900039673
+    },
+    {
+      "word": "merdeuf",
+      "cosine_similarity": 0.5614588260650635
+    },
+    {
+      "word": "feukeu",
+      "cosine_similarity": 0.5585101842880249
+    },
+    {
+      "word": "feuj",
+      "cosine_similarity": 0.5450673699378967
+    }
+  ],
+  "ouf": []
+}
