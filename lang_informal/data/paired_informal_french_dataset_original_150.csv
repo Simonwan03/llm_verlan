@@ -1,0 +1,151 @@
+id,phenomenon,standard_sentence,informal_sentence,meaning_same,notes
+001,verlan,Cette femme est très énervée.,Cette meuf est trop vénère.,1,verlan lexical substitution + colloquial intensifier
+002,verlan,La fête était vraiment bien hier soir.,La teuf était vraiment bien hier soir.,1,verlan lexical substitution
+003,verlan,Ce type est bizarre depuis ce matin.,Ce mec est zarbi depuis ce matin.,1,verlan/adjectival variant + informal noun
+004,verlan,Il est complètement fou parfois.,Il est complètement ouf parfois.,1,verlan lexical substitution
+005,verlan,Ce cours est vraiment pénible.,Ce cours est vraiment relou.,1,verlan lexical substitution
+006,verlan,Ma mère m'a appelé deux fois.,Ma reum m'a appelé deux fois.,1,verlan lexical substitution
+007,verlan,Je ne veux pas parler à la police.,Je veux pas parler aux keufs.,1,verlan lexical substitution + negation drop
+008,verlan,Il est rentré à la maison très tard.,Il est rentré à la zonmai très tard.,1,verlan lexical substitution
+009,verlan,Son frère habite dans ce quartier.,Son reuf habite dans ce quartier.,1,verlan lexical substitution
+010,verlan,Il a attrapé la dernière place disponible.,Il a pécho la dernière place disponible.,1,verlan lexical substitution
+011,verlan,Je vais appeler la police tout de suite.,Je vais appeler les keufs tout de suite.,1,verlan lexical substitution
+012,verlan,Ce film est très étrange.,Ce film est trop chelou.,1,verlan lexical substitution + colloquial intensifier
+013,verlan,Je suis très énervé depuis ce matin.,Je suis vénère depuis ce matin.,1,verlan lexical substitution
+014,verlan,Cette histoire est vraiment louche.,Cette histoire est vraiment chelou.,1,informal/verlan lexical substitution
+015,verlan,J'ai rencontré une femme sympa au café.,J'ai croisé une meuf sympa au café.,1,verlan lexical substitution + colloquial verb
+016,verlan,Ils ont organisé une grande fête pour son anniversaire.,Ils ont organisé une grosse teuf pour son anniversaire.,1,verlan lexical substitution
+017,verlan,Il est devenu fou après cette nouvelle.,Il est devenu ouf après cette nouvelle.,1,verlan lexical substitution
+018,verlan,Sa mère travaille à l'hôpital.,Sa reum travaille à l'hôpital.,1,verlan lexical substitution
+019,verlan,Je n'aime pas ce voisin étrange.,J'aime pas ce voisin chelou.,1,verlan lexical substitution + negation drop
+020,verlan,Le policier a contrôlé leurs papiers.,Le keuf a contrôlé leurs papiers.,1,verlan lexical substitution
+021,verlan,Ce devoir est pénible à finir.,Ce devoir est relou à finir.,1,verlan lexical substitution
+022,verlan,Mon frère a oublié ses clés.,Mon reuf a oublié ses clés.,1,verlan lexical substitution
+023,verlan,Il a passé toute la soirée à la fête.,Il a passé toute la soirée à la teuf.,1,verlan lexical substitution
+024,verlan,Cette femme parle très vite.,Cette meuf parle super vite.,1,verlan lexical substitution + colloquial intensifier
+025,verlan,Leur fête a duré jusqu'à l'aube.,Leur teuf a duré jusqu'à l'aube.,1,verlan lexical substitution
+026,verlan,Je trouve ce voisin vraiment bizarre.,Je trouve ce voisin vraiment zarbi.,1,verlan lexical substitution
+027,verlan,Elle était énervée contre tout le monde.,Elle était vénère contre tout le monde.,1,verlan lexical substitution
+028,verlan,Elle a parlé longtemps avec sa mère.,Elle a parlé longtemps avec sa reum.,1,verlan lexical substitution
+029,verlan,Nous avons parlé longtemps de sa mère.,On a parlé longtemps de sa reum.,1,verlan lexical substitution + spoken subject
+030,verlan,Ce gars-là a l'air complètement fou.,Ce gars-là a l'air complètement ouf.,1,verlan lexical substitution
+031,verlan,Il y avait trop de policiers devant le stade.,Y avait trop de keufs devant le stade.,1,verlan lexical substitution + spoken omission
+032,verlan,Ce trajet est pénible en hiver.,Ce trajet est relou en hiver.,1,verlan lexical substitution
+033,verlan,Cette femme connaît déjà la réponse.,Cette meuf connaît déjà la réponse.,1,verlan lexical substitution
+034,verlan,Le quartier était calme cet après-midi.,La zonmai était calme cet après-midi.,1,verlan lexical substitution
+035,verlan,Tu as vu comme il est étrange aujourd'hui ?,T'as vu comme il est chelou aujourd'hui ?,1,verlan lexical substitution + contraction
+036,verlan,Sa mère ne veut pas venir à la fête.,Sa reum veut pas venir à la teuf.,1,two verlan substitutions + negation drop
+037,verlan,Je suis très énervé à cause de ce message.,Je suis trop vénère à cause de ce message.,1,verlan lexical substitution
+038,verlan,Ce sac est vraiment laid.,Ce sac est vraiment cheum.,1,verlan lexical substitution
+039,verlan,Le serveur a appelé la police.,Le serveur a appelé les keufs.,1,verlan lexical substitution
+040,verlan,Elle a invité beaucoup de femmes à l'événement.,Elle a invité plein de meufs à l'événement.,1,verlan lexical substitution + colloquial quantifier
+041,verlan,La fête commence dans dix minutes.,La teuf commence dans dix minutes.,1,verlan lexical substitution
+042,verlan,Cet exercice est devenu pénible.,Cet exercice est devenu relou.,1,verlan lexical substitution
+043,verlan,Ma mère m'attend devant la gare.,Ma reum m'attend devant la gare.,1,verlan lexical substitution
+044,verlan,Je ne comprends pas ce type bizarre.,Je comprends pas ce type zarbi.,1,verlan lexical substitution + negation drop
+045,verlan,Il est fou de joie aujourd'hui.,Il est ouf de joie aujourd'hui.,1,verlan lexical substitution
+046,verlan,Nous avons trouvé ce quartier un peu louche.,On a trouvé cette zonmai un peu chelou.,1,multiple lexical substitutions
+047,verlan,Cette femme habite près d'ici.,Cette meuf habite près d'ici.,1,verlan lexical substitution
+048,verlan,Ce voisin est vraiment étrange à voir.,Ce voisin est vraiment chelou à voir.,1,verlan lexical substitution
+049,verlan,Cette femme était déjà très énervée ce matin.,Cette meuf était déjà super vénère ce matin.,1,two lexical substitutions
+050,verlan,La police est arrivée très vite sur place.,Les keufs sont arrivés très vite sur place.,1,verlan lexical substitution
+051,sms,Je ne sais pas où il est.,J'sais pas où il est.,1,contraction + negation drop
+052,sms,Tu es où ?,T'es où ?,1,contraction
+053,sms,Je suis déjà arrivé.,J'suis déjà arrivé.,1,contraction
+054,sms,Il n'y a plus de pain.,Y a plus de pain.,1,initial pronoun reduction + negation drop
+055,sms,Je t'appelle quand j'arrive.,Jt'appelle quand j'arrive.,1,apostrophe drop
+056,sms,"S'il te plaît, réponds-moi vite.",Stp réponds-moi vite.,1,abbreviation
+057,sms,"Désolé, je serai en retard de dix minutes.","Dsl, j'serai en retard de dix minutes.",1,abbreviation + contraction
+058,sms,Je n'ai pas le temps ce soir.,J'ai pas le temps ce soir.,1,negation drop
+059,sms,Qu'est-ce que tu fais maintenant ?,Tu fais quoi mtn ?,1,question simplification + abbreviation
+060,sms,On se retrouve au café à dix-huit heures.,On se retrouve au café à 18h.,1,numeric shorthand
+061,sms,Je reviens dans cinq minutes.,Je reviens ds 5 min.,1,abbreviations
+062,sms,Je te laisse un message.,Jte laisse un msg.,1,apostrophe drop + abbreviation
+063,sms,Je ne peux pas venir aujourd'hui.,Jpeux pas venir aujourd'hui.,1,contraction + negation drop
+064,sms,Tu as reçu mon message ?,T'as reçu mon msg ?,1,contraction + abbreviation
+065,sms,Je suis à la bibliothèque.,Jsuis à la bibliothèque.,1,contraction
+066,sms,Tu peux me rappeler ce soir ?,Tu peux m'rappeler ce soir ?,1,contraction
+067,sms,Je ne comprends pas ce message.,J'comprends pas ce msg.,1,contraction + abbreviation
+068,sms,Je vais arriver un peu plus tard.,J'vais arriver un peu + tard.,1,contraction + symbol shorthand
+069,sms,Merci pour ta réponse.,Merci pr ta réponse.,1,abbreviation
+070,sms,Tu me diras quand tu seras prêt.,Tu m'diras qd tu seras prêt.,1,contraction + abbreviation
+071,sms,Je suis devant la gare.,J'suis devant la gare.,1,contraction
+072,sms,Je n'ai toujours pas reçu le document.,J'ai tjrs pas reçu le doc.,1,abbreviation + negation drop
+073,sms,Je suis dans le métro.,Jsuis ds le métro.,1,contraction + abbreviation
+074,sms,Je ne peux plus attendre.,Jpeux plus attendre.,1,contraction + negation drop
+075,sms,Je t'envoie les photos ce soir.,Jt'envoie les photos ce soir.,1,apostrophe drop
+076,sms,Je ne suis pas encore parti.,Jsuis pas encore parti.,1,contraction + negation drop
+077,sms,Je te répondrai après le cours.,Jte répondrai après le cours.,1,apostrophe drop
+078,sms,"Tout va bien, ne t'inquiète pas.","Tout va bien, tkt.",1,abbreviation
+079,sms,Ce n'est pas grave.,C pas grave.,1,phonetic shorthand
+080,sms,Tu es déjà rentré ?,T'es déjà rentré ?,1,contraction
+081,sms,Je n'ai rien compris.,J'ai rien compris.,1,negation drop
+082,sms,Je serai là vers vingt heures.,J'serai là vers 20h.,1,contraction + numeric shorthand
+083,sms,Tu peux m'aider avec cet exercice ?,Tu peux m'aider avec cet exo ?,1,abbreviation
+084,sms,Je ne trouve plus mes clés.,Jtrouve plus mes clés.,1,contraction + negation drop
+085,sms,Je t'attends devant l'entrée.,Jt'attends devant l'entrée.,1,apostrophe drop
+086,sms,Je viens de finir.,Jviens de finir.,1,contraction
+087,sms,Je n'ai pas encore mangé.,J'ai pas encore mangé.,1,negation drop
+088,sms,Je suis trop fatigué pour sortir.,Jsuis trop fatigué pr sortir.,1,contraction + abbreviation
+089,sms,Je t'écris quand j'ai fini.,Jt'écris qd j'ai fini.,1,apostrophe drop + abbreviation
+090,sms,Il y a beaucoup de monde ici.,Y a bcp de monde ici.,1,reduction + abbreviation
+091,sms,Je ne veux pas oublier.,Jveux pas oublier.,1,contraction + negation drop
+092,sms,Tu me manques beaucoup.,Tu me manques bcp.,1,abbreviation
+093,sms,Je suis en train d'étudier.,Jsuis en train d'étudier.,1,contraction
+094,sms,Je n'ai pas vu ton appel.,J'ai pas vu ton appel.,1,negation drop
+095,sms,Je t'enverrai ça demain.,Jt'enverrai ça demain.,1,apostrophe drop
+096,sms,Je te donne des nouvelles demain.,Jte donne des news demain.,1,mixed register + apostrophe drop
+097,sms,Je suis presque arrivé.,J'suis presque arrivé.,1,contraction
+098,sms,Je ne pense pas pouvoir venir.,J'pense pas pouvoir venir.,1,contraction + negation drop
+099,sms,Je t'attendrai devant le bâtiment B.,Jt'attendrai devant le bât B.,1,apostrophe drop + abbreviation
+100,sms,Tu as encore besoin d'aide ?,T'as encore besoin d'aide ?,1,contraction
+101,spoken,Nous allons partir maintenant.,On va partir maintenant.,1,spoken subject + future proche
+102,spoken,Je ne sais pas.,Je sais pas.,1,negation drop
+103,spoken,Est-ce que tu veux venir avec nous ?,Tu veux venir avec nous ?,1,question simplification
+104,spoken,Il y a beaucoup de monde ici.,Y a beaucoup de monde ici.,1,initial reduction
+105,spoken,Nous avons déjà terminé.,On a déjà terminé.,1,spoken subject
+106,spoken,Cela m'étonne un peu.,Ça m'étonne un peu.,1,demonstrative reduction
+107,spoken,Ce n'est pas compliqué.,C'est pas compliqué.,1,negation drop
+108,spoken,Pourquoi est-il parti si tôt ?,Pourquoi il est parti si tôt ?,1,spoken question order
+109,spoken,Que fais-tu ici ?,Tu fais quoi ici ?,1,spoken question order
+110,spoken,Nous allons devoir attendre un peu.,On va devoir attendre un peu.,1,spoken subject + future proche
+111,spoken,Je n'en ai pas besoin.,J'en ai pas besoin.,1,negation drop
+112,spoken,Il ne veut rien dire.,Il veut rien dire.,1,negation drop
+113,spoken,Pierre est déjà là.,"Pierre, il est déjà là.",1,left dislocation
+114,spoken,Cette voiture ne démarre pas.,"Cette voiture, elle démarre pas.",1,left dislocation + negation drop
+115,spoken,Cela commence maintenant.,Ça commence maintenant.,1,demonstrative reduction
+116,spoken,Il faut que nous partions.,Faut qu'on parte.,1,spoken restructuring
+117,spoken,Nous ne pouvons pas rester plus longtemps.,On peut pas rester plus longtemps.,1,spoken subject + negation drop
+118,spoken,Qu'avez-vous décidé ?,Vous avez décidé quoi ?,1,spoken question order
+119,spoken,Je ne comprends pas bien.,Je comprends pas bien.,1,negation drop
+120,spoken,Nous allons prendre le train de dix heures.,On va prendre le train de dix heures.,1,spoken subject + future proche
+121,spoken,Tu n'as rien oublié ?,T'as rien oublié ?,1,contraction + negation drop
+122,spoken,Je vais le faire demain.,Je vais faire ça demain.,1,minor restructuring
+123,spoken,Il ne connaît personne ici.,Il connaît personne ici.,1,negation drop
+124,spoken,Cela ne change rien.,Ça change rien.,1,demonstrative reduction + negation drop
+125,spoken,Pourquoi ne viens-tu pas avec nous ?,Pourquoi tu viens pas avec nous ?,1,spoken order + negation drop
+126,spoken,Nous avons besoin de plus de temps.,On a besoin de plus de temps.,1,spoken subject
+127,spoken,Elle n'a jamais essayé.,Elle a jamais essayé.,1,negation drop
+128,spoken,Est-ce que vous pouvez répéter ?,Vous pouvez répéter ?,1,question simplification
+129,spoken,Je ne l'ai pas encore vu.,Je l'ai pas encore vu.,1,negation drop
+130,spoken,Nous devons y aller tout de suite.,On doit y aller tout de suite.,1,spoken subject
+131,spoken,Ce film ne me plaît pas.,Ce film me plaît pas.,1,negation drop
+132,spoken,Que veux-tu dire exactement ?,Tu veux dire quoi exactement ?,1,spoken question order
+133,spoken,Il n'y a rien à faire.,Y a rien à faire.,1,initial reduction + negation drop
+134,spoken,Nous allons manger dehors ce soir.,On va manger dehors ce soir.,1,spoken subject + future proche
+135,spoken,Cela me fait plaisir.,Ça me fait plaisir.,1,demonstrative reduction
+136,spoken,Je ne peux pas venir ce soir.,Je peux pas venir ce soir.,1,negation drop
+137,spoken,Pourquoi as-tu dit ça ?,Pourquoi t'as dit ça ?,1,contraction + spoken question order
+138,spoken,Nous avons fini plus tôt que prévu.,On a fini plus tôt que prévu.,1,spoken subject
+139,spoken,Il n'a plus de batterie.,Il a plus de batterie.,1,negation drop
+140,spoken,Qu'est-ce qui se passe ?,Il se passe quoi ?,1,spoken question order
+141,spoken,Cela ne sert à rien.,Ça sert à rien.,1,demonstrative reduction + negation drop
+142,spoken,Je ne veux plus attendre.,Je veux plus attendre.,1,negation drop
+143,spoken,Nous allons voir ce qu'il dit.,On va voir ce qu'il dit.,1,spoken subject + future proche
+144,spoken,Est-ce que ça te convient ?,Ça te va ?,1,spoken paraphrase
+145,spoken,Il ne faut pas s'inquiéter.,Faut pas s'inquiéter.,1,subject omission + negation drop
+146,spoken,Tu ne viens jamais ici.,Tu viens jamais ici.,1,negation drop
+147,spoken,Nous ne savons pas encore.,On sait pas encore.,1,spoken subject + negation drop
+148,spoken,Cela dépend de la situation.,Ça dépend de la situation.,1,demonstrative reduction
+149,spoken,Que regardez-vous ?,Vous regardez quoi ?,1,spoken question order
+150,spoken,Je n'ai plus faim.,J'ai plus faim.,1,negation drop

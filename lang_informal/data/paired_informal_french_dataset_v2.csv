@@ -1,0 +1,351 @@
+﻿id,phenomenon,standard_sentence,informal_sentence,meaning_same,notes,n_phenomena,component_phenomena,subphenomena,is_pure
+001,verlan,Cette femme est très bizarre.,Cette meuf est très zarbi.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+002,verlan,Cette femme est très énervée ce soir.,Cette meuf est très vénère ce soir.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+003,verlan,Mon frère devient vraiment lourd quand il attend trop.,Mon reuf devient vraiment relou quand il attend trop.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+004,verlan,Ta mère prépare une grande fête pour demain.,Ta reum prépare une grande teuf pour demain.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+005,verlan,Son père trouve cette situation très bizarre.,Son reup trouve cette situation très zarbi.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+006,verlan,Merci à ta mère pour son aide.,Cimer à ta reum pour son aide.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+007,verlan,Cette femme et son frère sont très énervés.,Cette meuf et son reuf sont très vénères.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+008,verlan,Mon frère trouve ce voisin un peu louche.,Mon reuf trouve ce voisin un peu chelou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+009,verlan,Cette femme paraît folle quand elle rit comme ça.,Cette meuf paraît ouf quand elle rit comme ça.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+010,verlan,Ta mère pense que ce plan est bizarre.,Ta reum pense que ce plan est zarbi.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+011,verlan,Son père organise une fête à la maison.,Son reup organise une teuf à la maison.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+012,verlan,Mon frère devient énervé à cause du bruit.,Mon reuf devient vénère à cause du bruit.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+013,verlan,Cette femme trouve ce dossier louche.,Cette meuf trouve ce dossier chelou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+014,verlan,Merci à son père pour le cadeau.,Cimer à son reup pour le cadeau.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+015,verlan,Ta mère devient énervée à cause du retard.,Ta reum devient vénère à cause du retard.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+016,verlan,Cette femme et son frère trouvent cela bizarre.,Cette meuf et son reuf trouvent cela zarbi.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+017,verlan,Mon frère trouve ce type lourd.,Mon reuf trouve ce type relou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+018,verlan,Son père paraît fou en ce moment.,Son reup paraît ouf en ce moment.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+019,verlan,Ta mère prépare une fête ce soir.,Ta reum prépare une teuf ce soir.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+020,verlan,Merci à cette femme pour sa patience.,Cimer à cette meuf pour sa patience.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+021,verlan,Mon frère pense que ce voisin est bizarre.,Mon reuf pense que ce voisin est zarbi.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+022,verlan,Cette femme devient énervée à cause du bus.,Cette meuf devient vénère à cause du bus.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+023,verlan,Son père trouve ce projet lourd.,Son reup trouve ce projet relou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+024,verlan,Ta mère pense que cette histoire est louche.,Ta reum pense que cette histoire est chelou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+025,verlan,Merci à mon frère pour son aide.,Cimer à mon reuf pour son aide.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+026,verlan,Cette femme veut une fête simple à la maison.,Cette meuf veut une teuf simple à la maison.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+027,verlan,Mon frère paraît fou quand il est fatigué.,Mon reuf paraît ouf quand il est fatigué.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+028,verlan,Ta mère devient lourde quand elle insiste trop.,Ta reum devient reloue quand elle insiste trop.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+029,verlan,Son père trouve ce bruit bizarre.,Son reup trouve ce bruit zarbi.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+030,verlan,Cette femme pense que ce plan est louche.,Cette meuf pense que ce plan est chelou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+031,verlan,Merci à ta mère pour le dîner.,Cimer à ta reum pour le dîner.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+032,verlan,Mon frère prépare une fête pour ses amis.,Mon reuf prépare une teuf pour ses amis.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+033,verlan,Cette femme devient énervée à cause de la file.,Cette meuf devient vénère à cause de la file.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+034,verlan,Son père trouve ce voisin bizarre.,Son reup trouve ce voisin zarbi.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+035,verlan,Ta mère juge ce dossier louche.,Ta reum juge ce dossier chelou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+036,verlan,Merci à cette femme pour le message.,Cimer à cette meuf pour le message.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+037,verlan,Mon frère trouve ce cours vraiment lourd.,Mon reuf trouve ce cours vraiment relou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+038,verlan,Cette femme paraît bizarre dans cette histoire.,Cette meuf paraît zarbi dans cette histoire.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+039,verlan,Ta mère organise une fête dans le quartier.,Ta reum organise une teuf dans le quartier.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+040,verlan,Son père devient énervé quand il conduit.,Son reup devient vénère quand il conduit.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+041,verlan,Merci à mon frère pour le trajet.,Cimer à mon reuf pour le trajet.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+042,verlan,Cette femme trouve ce silence louche.,Cette meuf trouve ce silence chelou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+043,verlan,Mon frère pense que ce règlement est lourd.,Mon reuf pense que ce règlement est relou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+044,verlan,Ta mère paraît folle de joie avant la fête.,Ta reum paraît ouf de joie avant la teuf.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+045,verlan,Son père juge ce comportement bizarre.,Son reup juge ce comportement zarbi.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+046,verlan,Merci à son père pour son soutien.,Cimer à son reup pour son soutien.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+047,verlan,Cette femme devient énervée en ce moment.,Cette meuf devient vénère en ce moment.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+048,verlan,Mon frère trouve ce regard louche.,Mon reuf trouve ce regard chelou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+049,verlan,Ta mère dit que ce travail est lourd.,Ta reum dit que ce travail est relou.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+050,verlan,Cette femme et son frère préparent une fête.,Cette meuf et son reuf préparent une teuf.,1,verlan lexical substitution,1,verlan,verlan_lexical,1
+051,sms,"Peux-tu m'envoyer le numéro du rendez-vous, s'il te plaît ?","Peux-tu m'envoyer le num du rdv, stp ?",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+052,sms,Quelqu'un a laissé beaucoup de messages aujourd'hui.,Quelqu'un a laissé bcp de msg ajd.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+053,sms,Je serai en retard de quinze minutes pour le rendez-vous.,Je serai en retard de 15 min pr le rdv.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+054,sms,Pourquoi y a-t-il beaucoup de monde au rendez-vous aujourd'hui ?,Pourquoi y a-t-il bcp de monde au rdv ajd ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+055,sms,"Nous confirmons le rendez-vous de demain, s'il vous plaît.","Nous confirmons le rdv de demain, svp.",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+056,sms,Le message contient le numéro de la salle.,Le msg contient le num de la salle.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+057,sms,Quelqu'un peut rappeler le numéro du professeur ?,Quelqu'un peut rappeler le num du professeur ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+058,sms,J'ai beaucoup de travail aujourd'hui.,J'ai bcp de travail ajd.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+059,sms,Merci de répondre au message pour le rendez-vous.,Merci de répondre au msg pr le rdv.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+060,sms,Pourquoi le message arrive-t-il si tard aujourd'hui ?,Pourquoi le msg arrive-t-il si tard ajd ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+061,sms,Le rendez-vous commence dans quinze minutes.,Le rdv commence dans 15 min.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+062,sms,"S'il te plaît, envoie-moi le numéro du dossier.","S'il te plaît, envoie-moi le num du dossier.",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+063,sms,Quelqu'un a déplacé le rendez-vous de demain.,Quelqu'un a déplacé le rdv de demain.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+064,sms,J'ai beaucoup apprécié ton message.,J'ai bcp apprécié ton msg.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+065,sms,Pourquoi as-tu annulé le rendez-vous ?,Pourquoi as-tu annulé le rdv ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+066,sms,Le message explique pourquoi il est en retard.,Le msg explique pk il est en retard.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+067,sms,"S'il vous plaît, confirmez le rendez-vous aujourd'hui.","S'il vous plaît, confirmez le rdv ajd.",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+068,sms,Quelqu'un connaît le numéro du bureau ?,Quelqu'un connaît le num du bureau ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+069,sms,Nous aurons beaucoup de réunions aujourd'hui.,Nous aurons bcp de réunions ajd.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+070,sms,Pourquoi ce rendez-vous dure-t-il trente minutes ?,Pourquoi ce rdv dure-t-il 30 min ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+071,sms,Le message de demain contient beaucoup d'informations.,Le msg de demain contient bcp d'informations.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+072,sms,"S'il te plaît, garde le numéro avec toi.","S'il te plaît, garde le num avec toi.",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+073,sms,Quelqu'un a oublié le message pour le directeur.,Quelqu'un a oublié le msg pr le directeur.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+074,sms,J'ai beaucoup attendu avant le rendez-vous.,J'ai bcp attendu avant le rdv.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+075,sms,Pourquoi faut-il changer le numéro aujourd'hui ?,Pourquoi faut-il changer le num ajd ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+076,sms,Le rendez-vous de demain a un nouveau numéro.,Le rdv de demain a un nouveau num.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+077,sms,"S'il vous plaît, lisez le message avant midi.","S'il vous plaît, lisez le msg avant midi.",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+078,sms,Quelqu'un a pris beaucoup de notes aujourd'hui.,Quelqu'un a pris bcp de notes ajd.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+079,sms,Merci pour le message du rendez-vous.,Merci pr le msg du rdv.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+080,sms,Pourquoi le numéro est-il écrit deux fois ?,Pourquoi le num est-il écrit deux fois ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+081,sms,Le rendez-vous aura lieu dans vingt minutes.,Le rdv aura lieu dans 20 min.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+082,sms,"S'il te plaît, imprime le message pour demain.","S'il te plaît, imprime le msg pr demain.",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+083,sms,Quelqu'un a envoyé beaucoup de documents aujourd'hui.,Quelqu'un a envoyé bcp de documents ajd.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+084,sms,Pourquoi faut-il confirmer le rendez-vous ?,Pourquoi faut-il confirmer le rdv ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+085,sms,Le message indique le numéro de l'immeuble.,Le msg indique le num de l'immeuble.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+086,sms,"S'il vous plaît, apportez le message au bureau.","S'il vous plaît, apportez le msg au bureau.",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+087,sms,Quelqu'un a beaucoup parlé pendant le rendez-vous.,Quelqu'un a bcp parlé pendant le rdv.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+088,sms,J'ai reçu le message aujourd'hui.,J'ai reçu le msg ajd.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+089,sms,Pourquoi le rendez-vous change-t-il encore ?,Pourquoi le rdv change-t-il encore ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+090,sms,Le numéro du rendez-vous est sur le message.,Le num du rdv est sur le msg.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+091,sms,"S'il te plaît, écris-moi avant le rendez-vous.","S'il te plaît, écris-moi avant le rdv.",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+092,sms,Quelqu'un a demandé beaucoup de précisions aujourd'hui.,Quelqu'un a demandé bcp de précisions ajd.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+093,sms,Pourquoi le message est-il si court ?,Pourquoi le msg est-il si court ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+094,sms,Le rendez-vous dure quinze minutes seulement.,Le rdv dure 15 min seulement.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+095,sms,"S'il vous plaît, envoyez le numéro ce soir.","S'il vous plaît, envoyez le num ce soir.",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+096,sms,Quelqu'un a laissé un message pour demain.,Quelqu'un a laissé un msg pr demain.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+097,sms,J'ai beaucoup appris pendant le rendez-vous.,J'ai bcp appris pendant le rdv.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+098,sms,Pourquoi ce numéro ne fonctionne-t-il pas ?,Pourquoi ce num ne fonctionne-t-il pas ?,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+099,sms,Le message de rendez-vous est très clair.,Le msg de rdv est très clair.,1,sms abbreviation/contraction,1,sms,sms_graphic,1
+100,sms,"S'il te plaît, confirme aujourd'hui.","S'il te plaît, confirme ajd.",1,sms abbreviation/contraction,1,sms,sms_graphic,1
+101,spoken,Nous allons partir maintenant.,On va partir maintenant.,1,spoken syntax/register,1,spoken,spoken_register,1
+102,spoken,Cela ne me plaît pas.,Ça ne me plaît pas.,1,spoken syntax/register,1,spoken,spoken_register,1
+103,spoken,Je ne sais pas où il est.,Je sais pas où il est.,1,spoken syntax/register,1,spoken,spoken_register,1
+104,spoken,Il n'y a pas de problème ici.,Y a pas de problème ici.,1,spoken syntax/register,1,spoken,spoken_register,1
+105,spoken,Est-ce que tu viens avec nous ?,Tu viens avec nous ?,1,spoken syntax/register,1,spoken,spoken_register,1
+106,spoken,Nous ne pouvons pas rester longtemps.,On peut pas rester longtemps.,1,spoken syntax/register,1,spoken,spoken_register,1
+107,spoken,Ce n'est pas grave.,C'est pas grave.,1,spoken syntax/register,1,spoken,spoken_register,1
+108,spoken,Nous avons encore du temps.,On a encore du temps.,1,spoken syntax/register,1,spoken,spoken_register,1
+109,spoken,Je ne veux pas attendre dehors.,Je veux pas attendre dehors.,1,spoken syntax/register,1,spoken,spoken_register,1
+110,spoken,Est-ce que vous comprenez la situation ?,Vous comprenez la situation ?,1,spoken syntax/register,1,spoken,spoken_register,1
+111,spoken,Cela ne change pas grand-chose.,Ça ne change pas grand-chose.,1,spoken syntax/register,1,spoken,spoken_register,1
+112,spoken,Nous devons partir avant midi.,On doit partir avant midi.,1,spoken syntax/register,1,spoken,spoken_register,1
+113,spoken,Je ne peux pas répondre maintenant.,Je peux pas répondre maintenant.,1,spoken syntax/register,1,spoken,spoken_register,1
+114,spoken,Il n'y a pas assez de place.,Y a pas assez de place.,1,spoken syntax/register,1,spoken,spoken_register,1
+115,spoken,Est-ce qu'il arrive ce soir ?,Il arrive ce soir ?,1,spoken syntax/register,1,spoken,spoken_register,1
+116,spoken,Nous voulons finir ce travail aujourd'hui.,On veut finir ce travail aujourd'hui.,1,spoken syntax/register,1,spoken,spoken_register,1
+117,spoken,Ce n'est pas très clair.,C'est pas très clair.,1,spoken syntax/register,1,spoken,spoken_register,1
+118,spoken,Je ne sais pas pourquoi elle rit.,Je sais pas pourquoi elle rit.,1,spoken syntax/register,1,spoken,spoken_register,1
+119,spoken,Nous n'allons pas annuler la réunion.,On va pas annuler la réunion.,1,spoken syntax/register,1,spoken,spoken_register,1
+120,spoken,Est-ce qu'on peut entrer ici ?,On peut entrer ici ?,1,spoken syntax/register,1,spoken,spoken_register,1
+121,spoken,Cela ne semble pas possible.,Ça ne semble pas possible.,1,spoken syntax/register,1,spoken,spoken_register,1
+122,spoken,Nous avons besoin d'aide.,On a besoin d'aide.,1,spoken syntax/register,1,spoken,spoken_register,1
+123,spoken,Je ne veux pas parler de cela.,Je veux pas parler de cela.,1,spoken syntax/register,1,spoken,spoken_register,1
+124,spoken,Il n'y a pas de bus ce soir.,Y a pas de bus ce soir.,1,spoken syntax/register,1,spoken,spoken_register,1
+125,spoken,Est-ce que tu peux attendre cinq minutes ?,Tu peux attendre cinq minutes ?,1,spoken syntax/register,1,spoken,spoken_register,1
+126,spoken,Nous devons revoir ce dossier.,On doit revoir ce dossier.,1,spoken syntax/register,1,spoken,spoken_register,1
+127,spoken,Ce n'est pas une bonne idée.,C'est pas une bonne idée.,1,spoken syntax/register,1,spoken,spoken_register,1
+128,spoken,Je ne peux pas venir demain.,Je peux pas venir demain.,1,spoken syntax/register,1,spoken,spoken_register,1
+129,spoken,Nous voulons comprendre la décision.,On veut comprendre la décision.,1,spoken syntax/register,1,spoken,spoken_register,1
+130,spoken,Il n'y a pas de solution simple.,Y a pas de solution simple.,1,spoken syntax/register,1,spoken,spoken_register,1
+131,spoken,Est-ce que vous restez ici ce soir ?,Vous restez ici ce soir ?,1,spoken syntax/register,1,spoken,spoken_register,1
+132,spoken,Cela ne vaut pas la peine.,Ça ne vaut pas la peine.,1,spoken syntax/register,1,spoken,spoken_register,1
+133,spoken,Nous allons commencer sans lui.,On va commencer sans lui.,1,spoken syntax/register,1,spoken,spoken_register,1
+134,spoken,Je ne sais pas si elle vient.,Je sais pas si elle vient.,1,spoken syntax/register,1,spoken,spoken_register,1
+135,spoken,Il n'y a pas de café dans la salle.,Y a pas de café dans la salle.,1,spoken syntax/register,1,spoken,spoken_register,1
+136,spoken,Est-ce qu'elle connaît déjà la réponse ?,Elle connaît déjà la réponse ?,1,spoken syntax/register,1,spoken,spoken_register,1
+137,spoken,Nous ne devons pas oublier ce détail.,On doit pas oublier ce détail.,1,spoken syntax/register,1,spoken,spoken_register,1
+138,spoken,Ce n'est pas ce que j'ai dit.,C'est pas ce que j'ai dit.,1,spoken syntax/register,1,spoken,spoken_register,1
+139,spoken,Je ne peux pas ouvrir la porte.,Je peux pas ouvrir la porte.,1,spoken syntax/register,1,spoken,spoken_register,1
+140,spoken,Nous avons trouvé la bonne salle.,On a trouvé la bonne salle.,1,spoken syntax/register,1,spoken,spoken_register,1
+141,spoken,Cela ne me rassure pas.,Ça ne me rassure pas.,1,spoken syntax/register,1,spoken,spoken_register,1
+142,spoken,Est-ce que tu veux encore du pain ?,Tu veux encore du pain ?,1,spoken syntax/register,1,spoken,spoken_register,1
+143,spoken,Nous n'avons pas besoin de cela aujourd'hui.,On a pas besoin de ça aujourd'hui.,1,spoken syntax/register,1,spoken,spoken_register,1
+144,spoken,Je ne sais pas quand il part.,Je sais pas quand il part.,1,spoken syntax/register,1,spoken,spoken_register,1
+145,spoken,Il n'y a pas de chaise libre.,Y a pas de chaise libre.,1,spoken syntax/register,1,spoken,spoken_register,1
+146,spoken,Est-ce qu'on garde cette table ?,On garde cette table ?,1,spoken syntax/register,1,spoken,spoken_register,1
+147,spoken,Nous pouvons revenir plus tard.,On peut revenir plus tard.,1,spoken syntax/register,1,spoken,spoken_register,1
+148,spoken,Ce n'est pas le bon numéro.,C'est pas le bon numéro.,1,spoken syntax/register,1,spoken,spoken_register,1
+149,spoken,Je ne veux pas perdre de temps.,Je veux pas perdre de temps.,1,spoken syntax/register,1,spoken,spoken_register,1
+150,spoken,Nous allons vérifier ensemble.,On va vérifier ensemble.,1,spoken syntax/register,1,spoken,spoken_register,1
+151,verlan+sms,"Peux-tu envoyer le numéro du rendez-vous à cette femme, s'il te plaît ?","Peux-tu envoyer le num du rdv à cette meuf, stp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+152,verlan+sms,Cette femme est bizarre à cause du message d'aujourd'hui.,Cette meuf est zarbi à cause du msg d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+153,verlan+sms,Merci à cette femme pour le numéro du rendez-vous.,Cimer à cette meuf pr le num du rdv.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+154,verlan+sms,Cette femme prépare la fête de demain et le message est prêt.,Cette meuf prépare la teuf de demain et le msg est prêt.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+155,verlan+sms,"Peux-tu confirmer le rendez-vous à cette femme, s'il vous plaît ?","Peux-tu confirmer le rdv à cette meuf, svp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+156,verlan+sms,"Peux-tu envoyer le numéro du rendez-vous à ta mère, s'il te plaît ?","Peux-tu envoyer le num du rdv à ta reum, stp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+157,verlan+sms,Ta mère est énervée à cause du message d'aujourd'hui.,Ta reum est vénère à cause du msg d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+158,verlan+sms,Merci à ta mère pour le numéro du rendez-vous.,Cimer à ta reum pr le num du rdv.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+159,verlan+sms,Ta mère prépare la fête de demain et le message est prêt.,Ta reum prépare la teuf de demain et le msg est prêt.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+160,verlan+sms,"Peux-tu confirmer le rendez-vous à ta mère, s'il vous plaît ?","Peux-tu confirmer le rdv à ta reum, svp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+161,verlan+sms,"Peux-tu envoyer le numéro du rendez-vous à mon frère, s'il te plaît ?","Peux-tu envoyer le num du rdv à mon reuf, stp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+162,verlan+sms,Mon frère est louche à cause du message d'aujourd'hui.,Mon reuf est chelou à cause du msg d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+163,verlan+sms,Merci à mon frère pour le numéro du rendez-vous.,Cimer à mon reuf pr le num du rdv.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+164,verlan+sms,Mon frère prépare la fête de demain et le message est prêt.,Mon reuf prépare la teuf de demain et le msg est prêt.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+165,verlan+sms,"Peux-tu confirmer le rendez-vous à mon frère, s'il vous plaît ?","Peux-tu confirmer le rdv à mon reuf, svp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+166,verlan+sms,"Peux-tu envoyer le numéro du rendez-vous à ton frère, s'il te plaît ?","Peux-tu envoyer le num du rdv à ton reuf, stp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+167,verlan+sms,Ton frère est fou à cause du message d'aujourd'hui.,Ton reuf est ouf à cause du msg d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+168,verlan+sms,Merci à ton frère pour le numéro du rendez-vous.,Cimer à ton reuf pr le num du rdv.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+169,verlan+sms,Ton frère prépare la fête de demain et le message est prêt.,Ton reuf prépare la teuf de demain et le msg est prêt.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+170,verlan+sms,"Peux-tu confirmer le rendez-vous à ton frère, s'il vous plaît ?","Peux-tu confirmer le rdv à ton reuf, svp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+171,verlan+sms,"Peux-tu envoyer le numéro du rendez-vous à son père, s'il te plaît ?","Peux-tu envoyer le num du rdv à son reup, stp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+172,verlan+sms,Son père est lourd à cause du message d'aujourd'hui.,Son reup est relou à cause du msg d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+173,verlan+sms,Merci à son père pour le numéro du rendez-vous.,Cimer à son reup pr le num du rdv.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+174,verlan+sms,Son père prépare la fête de demain et le message est prêt.,Son reup prépare la teuf de demain et le msg est prêt.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+175,verlan+sms,"Peux-tu confirmer le rendez-vous à son père, s'il vous plaît ?","Peux-tu confirmer le rdv à son reup, svp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+176,verlan+sms,"Peux-tu envoyer le numéro du rendez-vous à cette femme, s'il te plaît ?","Peux-tu envoyer le num du rdv à cette meuf, stp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+177,verlan+sms,Cette femme est bizarre à cause du message d'aujourd'hui.,Cette meuf est zarbi à cause du msg d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+178,verlan+sms,Merci à cette femme pour le numéro du rendez-vous.,Cimer à cette meuf pr le num du rdv.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+179,verlan+sms,Cette femme prépare la fête de demain et le message est prêt.,Cette meuf prépare la teuf de demain et le msg est prêt.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+180,verlan+sms,"Peux-tu confirmer le rendez-vous à cette femme, s'il vous plaît ?","Peux-tu confirmer le rdv à cette meuf, svp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+181,verlan+sms,"Peux-tu envoyer le numéro du rendez-vous à ta mère, s'il te plaît ?","Peux-tu envoyer le num du rdv à ta reum, stp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+182,verlan+sms,Ta mère est énervée à cause du message d'aujourd'hui.,Ta reum est vénère à cause du msg d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+183,verlan+sms,Merci à ta mère pour le numéro du rendez-vous.,Cimer à ta reum pr le num du rdv.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+184,verlan+sms,Ta mère prépare la fête de demain et le message est prêt.,Ta reum prépare la teuf de demain et le msg est prêt.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+185,verlan+sms,"Peux-tu confirmer le rendez-vous à ta mère, s'il vous plaît ?","Peux-tu confirmer le rdv à ta reum, svp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+186,verlan+sms,"Peux-tu envoyer le numéro du rendez-vous à mon frère, s'il te plaît ?","Peux-tu envoyer le num du rdv à mon reuf, stp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+187,verlan+sms,Mon frère est louche à cause du message d'aujourd'hui.,Mon reuf est chelou à cause du msg d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+188,verlan+sms,Merci à mon frère pour le numéro du rendez-vous.,Cimer à mon reuf pr le num du rdv.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+189,verlan+sms,Mon frère prépare la fête de demain et le message est prêt.,Mon reuf prépare la teuf de demain et le msg est prêt.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+190,verlan+sms,"Peux-tu confirmer le rendez-vous à mon frère, s'il vous plaît ?","Peux-tu confirmer le rdv à mon reuf, svp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+191,verlan+sms,"Peux-tu envoyer le numéro du rendez-vous à ton frère, s'il te plaît ?","Peux-tu envoyer le num du rdv à ton reuf, stp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+192,verlan+sms,Ton frère est fou à cause du message d'aujourd'hui.,Ton reuf est ouf à cause du msg d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+193,verlan+sms,Merci à ton frère pour le numéro du rendez-vous.,Cimer à ton reuf pr le num du rdv.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+194,verlan+sms,Ton frère prépare la fête de demain et le message est prêt.,Ton reuf prépare la teuf de demain et le msg est prêt.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+195,verlan+sms,"Peux-tu confirmer le rendez-vous à ton frère, s'il vous plaît ?","Peux-tu confirmer le rdv à ton reuf, svp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+196,verlan+sms,"Peux-tu envoyer le numéro du rendez-vous à son père, s'il te plaît ?","Peux-tu envoyer le num du rdv à son reup, stp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+197,verlan+sms,Son père est lourd à cause du message d'aujourd'hui.,Son reup est relou à cause du msg d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+198,verlan+sms,Merci à son père pour le numéro du rendez-vous.,Cimer à son reup pr le num du rdv.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+199,verlan+sms,Son père prépare la fête de demain et le message est prêt.,Son reup prépare la teuf de demain et le msg est prêt.,1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+200,verlan+sms,"Peux-tu confirmer le rendez-vous à son père, s'il vous plaît ?","Peux-tu confirmer le rdv à son reup, svp ?",1,verlan lexical substitution + sms abbreviation/contraction,2,"verlan, sms",verlan_lexical; sms_graphic,0
+201,verlan+spoken,Je ne sais pas pourquoi cette femme est bizarre.,Je sais pas pourquoi cette meuf est zarbi.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+202,verlan+spoken,Nous allons voir cette femme à la fête ce soir.,On va voir cette meuf à la teuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+203,verlan+spoken,Ce n'est pas cette femme qui est bizarre.,C'est pas cette meuf qui est zarbi.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+204,verlan+spoken,Il n'y a pas de fête chez cette femme ce soir.,Y a pas de teuf chez cette meuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+205,verlan+spoken,Nous n'allons pas suivre cette femme à la fête.,On va pas suivre cette meuf à la teuf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+206,verlan+spoken,Je ne sais pas pourquoi ta mère est énervée.,Je sais pas pourquoi ta reum est vénère.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+207,verlan+spoken,Nous allons voir ta mère à la fête ce soir.,On va voir ta reum à la teuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+208,verlan+spoken,Ce n'est pas ta mère qui est énervée.,C'est pas ta reum qui est vénère.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+209,verlan+spoken,Il n'y a pas de fête chez ta mère ce soir.,Y a pas de teuf chez ta reum ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+210,verlan+spoken,Nous n'allons pas suivre ta mère à la fête.,On va pas suivre ta reum à la teuf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+211,verlan+spoken,Je ne sais pas pourquoi mon frère est louche.,Je sais pas pourquoi mon reuf est chelou.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+212,verlan+spoken,Nous allons voir mon frère à la fête ce soir.,On va voir mon reuf à la teuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+213,verlan+spoken,Ce n'est pas mon frère qui est louche.,C'est pas mon reuf qui est chelou.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+214,verlan+spoken,Il n'y a pas de fête chez mon frère ce soir.,Y a pas de teuf chez mon reuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+215,verlan+spoken,Nous n'allons pas suivre mon frère à la fête.,On va pas suivre mon reuf à la teuf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+216,verlan+spoken,Je ne sais pas pourquoi ton frère est fou.,Je sais pas pourquoi ton reuf est ouf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+217,verlan+spoken,Nous allons voir ton frère à la fête ce soir.,On va voir ton reuf à la teuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+218,verlan+spoken,Ce n'est pas ton frère qui est fou.,C'est pas ton reuf qui est ouf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+219,verlan+spoken,Il n'y a pas de fête chez ton frère ce soir.,Y a pas de teuf chez ton reuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+220,verlan+spoken,Nous n'allons pas suivre ton frère à la fête.,On va pas suivre ton reuf à la teuf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+221,verlan+spoken,Je ne sais pas pourquoi son père est lourd.,Je sais pas pourquoi son reup est relou.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+222,verlan+spoken,Nous allons voir son père à la fête ce soir.,On va voir son reup à la teuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+223,verlan+spoken,Ce n'est pas son père qui est lourd.,C'est pas son reup qui est relou.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+224,verlan+spoken,Il n'y a pas de fête chez son père ce soir.,Y a pas de teuf chez son reup ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+225,verlan+spoken,Nous n'allons pas suivre son père à la fête.,On va pas suivre son reup à la teuf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+226,verlan+spoken,Je ne sais pas pourquoi cette femme est bizarre.,Je sais pas pourquoi cette meuf est zarbi.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+227,verlan+spoken,Nous allons voir cette femme à la fête ce soir.,On va voir cette meuf à la teuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+228,verlan+spoken,Ce n'est pas cette femme qui est bizarre.,C'est pas cette meuf qui est zarbi.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+229,verlan+spoken,Il n'y a pas de fête chez cette femme ce soir.,Y a pas de teuf chez cette meuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+230,verlan+spoken,Nous n'allons pas suivre cette femme à la fête.,On va pas suivre cette meuf à la teuf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+231,verlan+spoken,Je ne sais pas pourquoi ta mère est énervée.,Je sais pas pourquoi ta reum est vénère.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+232,verlan+spoken,Nous allons voir ta mère à la fête ce soir.,On va voir ta reum à la teuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+233,verlan+spoken,Ce n'est pas ta mère qui est énervée.,C'est pas ta reum qui est vénère.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+234,verlan+spoken,Il n'y a pas de fête chez ta mère ce soir.,Y a pas de teuf chez ta reum ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+235,verlan+spoken,Nous n'allons pas suivre ta mère à la fête.,On va pas suivre ta reum à la teuf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+236,verlan+spoken,Je ne sais pas pourquoi mon frère est louche.,Je sais pas pourquoi mon reuf est chelou.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+237,verlan+spoken,Nous allons voir mon frère à la fête ce soir.,On va voir mon reuf à la teuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+238,verlan+spoken,Ce n'est pas mon frère qui est louche.,C'est pas mon reuf qui est chelou.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+239,verlan+spoken,Il n'y a pas de fête chez mon frère ce soir.,Y a pas de teuf chez mon reuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+240,verlan+spoken,Nous n'allons pas suivre mon frère à la fête.,On va pas suivre mon reuf à la teuf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+241,verlan+spoken,Je ne sais pas pourquoi ton frère est fou.,Je sais pas pourquoi ton reuf est ouf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+242,verlan+spoken,Nous allons voir ton frère à la fête ce soir.,On va voir ton reuf à la teuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+243,verlan+spoken,Ce n'est pas ton frère qui est fou.,C'est pas ton reuf qui est ouf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+244,verlan+spoken,Il n'y a pas de fête chez ton frère ce soir.,Y a pas de teuf chez ton reuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+245,verlan+spoken,Nous n'allons pas suivre ton frère à la fête.,On va pas suivre ton reuf à la teuf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+246,verlan+spoken,Je ne sais pas pourquoi son père est lourd.,Je sais pas pourquoi son reup est relou.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+247,verlan+spoken,Nous allons voir son père à la fête ce soir.,On va voir son reup à la teuf ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+248,verlan+spoken,Ce n'est pas son père qui est lourd.,C'est pas son reup qui est relou.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+249,verlan+spoken,Il n'y a pas de fête chez son père ce soir.,Y a pas de teuf chez son reup ce soir.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+250,verlan+spoken,Nous n'allons pas suivre son père à la fête.,On va pas suivre son reup à la teuf.,1,verlan lexical substitution + spoken syntax/register,2,"verlan, spoken",verlan_lexical; spoken_register,0
+251,sms+spoken,Nous allons partir dans quinze minutes pour le rendez-vous de ce matin.,On va partir dans 15 min pr le rdv de ce matin.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+252,sms+spoken,Je ne sais pas si quelqu'un a laissé un message aujourd'hui pour le directeur.,Je sais pas si qqn a laissé un msg ajd pr le directeur.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+253,sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous maintenant ?,Tu peux envoyer le num du rdv maintenant ?,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+254,sms+spoken,Il n'y a pas beaucoup de monde aujourd'hui au bureau.,Y a pas bcp de monde ajd au bureau.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+255,sms+spoken,Nous ne pouvons pas confirmer le rendez-vous maintenant sans le message.,On peut pas confirmer le rdv maintenant sans le msg.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+256,sms+spoken,Nous allons partir dans quinze minutes pour le rendez-vous de ce soir.,On va partir dans 15 min pr le rdv de ce soir.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+257,sms+spoken,Je ne sais pas si quelqu'un a laissé un message aujourd'hui pour la salle.,Je sais pas si qqn a laissé un msg ajd pr la salle.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+258,sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous ce soir ?,Tu peux envoyer le num du rdv ce soir ?,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+259,sms+spoken,Il n'y a pas beaucoup de monde aujourd'hui dans la salle.,Y a pas bcp de monde ajd dans la salle.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+260,sms+spoken,Nous ne pouvons pas confirmer le rendez-vous maintenant sans le numéro.,On peut pas confirmer le rdv maintenant sans le num.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+261,sms+spoken,Nous allons partir dans quinze minutes pour le rendez-vous de demain.,On va partir dans 15 min pr le rdv de demain.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+262,sms+spoken,Je ne sais pas si quelqu'un a laissé un message aujourd'hui pour le dossier.,Je sais pas si qqn a laissé un msg ajd pr le dossier.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+263,sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous demain matin ?,Tu peux envoyer le num du rdv demain matin ?,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+264,sms+spoken,Il n'y a pas beaucoup de monde aujourd'hui au rendez-vous.,Y a pas bcp de monde ajd au rdv.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+265,sms+spoken,Nous ne pouvons pas confirmer le rendez-vous maintenant avant midi.,On peut pas confirmer le rdv maintenant avant midi.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+266,sms+spoken,Nous allons partir dans quinze minutes pour le rendez-vous du bureau.,On va partir dans 15 min pr le rdv du bureau.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+267,sms+spoken,Je ne sais pas si quelqu'un a laissé un message aujourd'hui pour le groupe.,Je sais pas si qqn a laissé un msg ajd pr le groupe.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+268,sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous au groupe ?,Tu peux envoyer le num du rdv au groupe ?,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+269,sms+spoken,Il n'y a pas beaucoup de monde aujourd'hui dans le bus.,Y a pas bcp de monde ajd dans le bus.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+270,sms+spoken,Nous ne pouvons pas confirmer le rendez-vous maintenant pour demain.,On peut pas confirmer le rdv maintenant pr demain.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+271,sms+spoken,Nous allons partir dans quinze minutes pour le rendez-vous du service.,On va partir dans 15 min pr le rdv du service.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+272,sms+spoken,Je ne sais pas si quelqu'un a laissé un message aujourd'hui pour le professeur.,Je sais pas si qqn a laissé un msg ajd pr le professeur.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+273,sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous au bureau ?,Tu peux envoyer le num du rdv au bureau ?,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+274,sms+spoken,Il n'y a pas beaucoup de monde aujourd'hui au service.,Y a pas bcp de monde ajd au service.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+275,sms+spoken,Nous ne pouvons pas confirmer le rendez-vous maintenant pour ce soir.,On peut pas confirmer le rdv maintenant pr ce soir.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+276,sms+spoken,Nous allons partir dans quinze minutes pour le rendez-vous de ce matin.,On va partir dans 15 min pr le rdv de ce matin.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+277,sms+spoken,Je ne sais pas si quelqu'un a laissé un message aujourd'hui pour le directeur.,Je sais pas si qqn a laissé un msg ajd pr le directeur.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+278,sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous maintenant ?,Tu peux envoyer le num du rdv maintenant ?,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+279,sms+spoken,Il n'y a pas beaucoup de monde aujourd'hui au bureau.,Y a pas bcp de monde ajd au bureau.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+280,sms+spoken,Nous ne pouvons pas confirmer le rendez-vous maintenant sans le message.,On peut pas confirmer le rdv maintenant sans le msg.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+281,sms+spoken,Nous allons partir dans quinze minutes pour le rendez-vous de ce soir.,On va partir dans 15 min pr le rdv de ce soir.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+282,sms+spoken,Je ne sais pas si quelqu'un a laissé un message aujourd'hui pour la salle.,Je sais pas si qqn a laissé un msg ajd pr la salle.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+283,sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous ce soir ?,Tu peux envoyer le num du rdv ce soir ?,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+284,sms+spoken,Il n'y a pas beaucoup de monde aujourd'hui dans la salle.,Y a pas bcp de monde ajd dans la salle.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+285,sms+spoken,Nous ne pouvons pas confirmer le rendez-vous maintenant sans le numéro.,On peut pas confirmer le rdv maintenant sans le num.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+286,sms+spoken,Nous allons partir dans quinze minutes pour le rendez-vous de demain.,On va partir dans 15 min pr le rdv de demain.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+287,sms+spoken,Je ne sais pas si quelqu'un a laissé un message aujourd'hui pour le dossier.,Je sais pas si qqn a laissé un msg ajd pr le dossier.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+288,sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous demain matin ?,Tu peux envoyer le num du rdv demain matin ?,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+289,sms+spoken,Il n'y a pas beaucoup de monde aujourd'hui au rendez-vous.,Y a pas bcp de monde ajd au rdv.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+290,sms+spoken,Nous ne pouvons pas confirmer le rendez-vous maintenant avant midi.,On peut pas confirmer le rdv maintenant avant midi.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+291,sms+spoken,Nous allons partir dans quinze minutes pour le rendez-vous du bureau.,On va partir dans 15 min pr le rdv du bureau.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+292,sms+spoken,Je ne sais pas si quelqu'un a laissé un message aujourd'hui pour le groupe.,Je sais pas si qqn a laissé un msg ajd pr le groupe.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+293,sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous au groupe ?,Tu peux envoyer le num du rdv au groupe ?,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+294,sms+spoken,Il n'y a pas beaucoup de monde aujourd'hui dans le bus.,Y a pas bcp de monde ajd dans le bus.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+295,sms+spoken,Nous ne pouvons pas confirmer le rendez-vous maintenant pour demain.,On peut pas confirmer le rdv maintenant pr demain.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+296,sms+spoken,Nous allons partir dans quinze minutes pour le rendez-vous du service.,On va partir dans 15 min pr le rdv du service.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+297,sms+spoken,Je ne sais pas si quelqu'un a laissé un message aujourd'hui pour le professeur.,Je sais pas si qqn a laissé un msg ajd pr le professeur.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+298,sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous au bureau ?,Tu peux envoyer le num du rdv au bureau ?,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+299,sms+spoken,Il n'y a pas beaucoup de monde aujourd'hui au service.,Y a pas bcp de monde ajd au service.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+300,sms+spoken,Nous ne pouvons pas confirmer le rendez-vous maintenant pour ce soir.,On peut pas confirmer le rdv maintenant pr ce soir.,1,sms abbreviation/contraction + spoken syntax/register,2,"sms, spoken",sms_graphic; spoken_register,0
+301,verlan+sms+spoken,Je ne sais pas pourquoi cette femme est bizarre avant le rendez-vous d'aujourd'hui.,Je sais pas pk cette meuf est zarbi avant le rdv d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+302,verlan+sms+spoken,Nous allons voir cette femme à la fête dans quinze minutes.,On va voir cette meuf à la teuf dans 15 min.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+303,verlan+sms+spoken,Ce n'est pas cette femme qui envoie le message du rendez-vous aujourd'hui.,C'est pas cette meuf qui envoie le msg du rdv ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+304,verlan+sms+spoken,Il n'y a pas de fête chez cette femme aujourd'hui.,Y a pas de teuf chez cette meuf ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+305,verlan+sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous à cette femme ?,Tu peux envoyer le num du rdv à cette meuf ?,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+306,verlan+sms+spoken,Je ne sais pas pourquoi ta mère est énervée avant le rendez-vous d'aujourd'hui.,Je sais pas pk ta reum est vénère avant le rdv d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+307,verlan+sms+spoken,Nous allons voir ta mère à la fête dans quinze minutes.,On va voir ta reum à la teuf dans 15 min.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+308,verlan+sms+spoken,Ce n'est pas ta mère qui envoie le message du rendez-vous aujourd'hui.,C'est pas ta reum qui envoie le msg du rdv ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+309,verlan+sms+spoken,Il n'y a pas de fête chez ta mère aujourd'hui.,Y a pas de teuf chez ta reum ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+310,verlan+sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous à ta mère ?,Tu peux envoyer le num du rdv à ta reum ?,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+311,verlan+sms+spoken,Je ne sais pas pourquoi mon frère est louche avant le rendez-vous d'aujourd'hui.,Je sais pas pk mon reuf est chelou avant le rdv d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+312,verlan+sms+spoken,Nous allons voir mon frère à la fête dans quinze minutes.,On va voir mon reuf à la teuf dans 15 min.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+313,verlan+sms+spoken,Ce n'est pas mon frère qui envoie le message du rendez-vous aujourd'hui.,C'est pas mon reuf qui envoie le msg du rdv ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+314,verlan+sms+spoken,Il n'y a pas de fête chez mon frère aujourd'hui.,Y a pas de teuf chez mon reuf ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+315,verlan+sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous à mon frère ?,Tu peux envoyer le num du rdv à mon reuf ?,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+316,verlan+sms+spoken,Je ne sais pas pourquoi ton frère est fou avant le rendez-vous d'aujourd'hui.,Je sais pas pk ton reuf est ouf avant le rdv d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+317,verlan+sms+spoken,Nous allons voir ton frère à la fête dans quinze minutes.,On va voir ton reuf à la teuf dans 15 min.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+318,verlan+sms+spoken,Ce n'est pas ton frère qui envoie le message du rendez-vous aujourd'hui.,C'est pas ton reuf qui envoie le msg du rdv ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+319,verlan+sms+spoken,Il n'y a pas de fête chez ton frère aujourd'hui.,Y a pas de teuf chez ton reuf ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+320,verlan+sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous à ton frère ?,Tu peux envoyer le num du rdv à ton reuf ?,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+321,verlan+sms+spoken,Je ne sais pas pourquoi son père est lourd avant le rendez-vous d'aujourd'hui.,Je sais pas pk son reup est relou avant le rdv d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+322,verlan+sms+spoken,Nous allons voir son père à la fête dans quinze minutes.,On va voir son reup à la teuf dans 15 min.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+323,verlan+sms+spoken,Ce n'est pas son père qui envoie le message du rendez-vous aujourd'hui.,C'est pas son reup qui envoie le msg du rdv ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+324,verlan+sms+spoken,Il n'y a pas de fête chez son père aujourd'hui.,Y a pas de teuf chez son reup ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+325,verlan+sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous à son père ?,Tu peux envoyer le num du rdv à son reup ?,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+326,verlan+sms+spoken,Je ne sais pas pourquoi cette femme est bizarre avant le rendez-vous d'aujourd'hui.,Je sais pas pk cette meuf est zarbi avant le rdv d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+327,verlan+sms+spoken,Nous allons voir cette femme à la fête dans quinze minutes.,On va voir cette meuf à la teuf dans 15 min.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+328,verlan+sms+spoken,Ce n'est pas cette femme qui envoie le message du rendez-vous aujourd'hui.,C'est pas cette meuf qui envoie le msg du rdv ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+329,verlan+sms+spoken,Il n'y a pas de fête chez cette femme aujourd'hui.,Y a pas de teuf chez cette meuf ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+330,verlan+sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous à cette femme ?,Tu peux envoyer le num du rdv à cette meuf ?,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+331,verlan+sms+spoken,Je ne sais pas pourquoi ta mère est énervée avant le rendez-vous d'aujourd'hui.,Je sais pas pk ta reum est vénère avant le rdv d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+332,verlan+sms+spoken,Nous allons voir ta mère à la fête dans quinze minutes.,On va voir ta reum à la teuf dans 15 min.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+333,verlan+sms+spoken,Ce n'est pas ta mère qui envoie le message du rendez-vous aujourd'hui.,C'est pas ta reum qui envoie le msg du rdv ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+334,verlan+sms+spoken,Il n'y a pas de fête chez ta mère aujourd'hui.,Y a pas de teuf chez ta reum ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+335,verlan+sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous à ta mère ?,Tu peux envoyer le num du rdv à ta reum ?,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+336,verlan+sms+spoken,Je ne sais pas pourquoi mon frère est louche avant le rendez-vous d'aujourd'hui.,Je sais pas pk mon reuf est chelou avant le rdv d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+337,verlan+sms+spoken,Nous allons voir mon frère à la fête dans quinze minutes.,On va voir mon reuf à la teuf dans 15 min.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+338,verlan+sms+spoken,Ce n'est pas mon frère qui envoie le message du rendez-vous aujourd'hui.,C'est pas mon reuf qui envoie le msg du rdv ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+339,verlan+sms+spoken,Il n'y a pas de fête chez mon frère aujourd'hui.,Y a pas de teuf chez mon reuf ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+340,verlan+sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous à mon frère ?,Tu peux envoyer le num du rdv à mon reuf ?,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+341,verlan+sms+spoken,Je ne sais pas pourquoi ton frère est fou avant le rendez-vous d'aujourd'hui.,Je sais pas pk ton reuf est ouf avant le rdv d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+342,verlan+sms+spoken,Nous allons voir ton frère à la fête dans quinze minutes.,On va voir ton reuf à la teuf dans 15 min.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+343,verlan+sms+spoken,Ce n'est pas ton frère qui envoie le message du rendez-vous aujourd'hui.,C'est pas ton reuf qui envoie le msg du rdv ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+344,verlan+sms+spoken,Il n'y a pas de fête chez ton frère aujourd'hui.,Y a pas de teuf chez ton reuf ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+345,verlan+sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous à ton frère ?,Tu peux envoyer le num du rdv à ton reuf ?,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+346,verlan+sms+spoken,Je ne sais pas pourquoi son père est lourd avant le rendez-vous d'aujourd'hui.,Je sais pas pk son reup est relou avant le rdv d'ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+347,verlan+sms+spoken,Nous allons voir son père à la fête dans quinze minutes.,On va voir son reup à la teuf dans 15 min.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+348,verlan+sms+spoken,Ce n'est pas son père qui envoie le message du rendez-vous aujourd'hui.,C'est pas son reup qui envoie le msg du rdv ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+349,verlan+sms+spoken,Il n'y a pas de fête chez son père aujourd'hui.,Y a pas de teuf chez son reup ajd.,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0
+350,verlan+sms+spoken,Est-ce que tu peux envoyer le numéro du rendez-vous à son père ?,Tu peux envoyer le num du rdv à son reup ?,1,verlan lexical substitution + sms abbreviation/contraction + spoken syntax/register,3,"verlan, sms, spoken",verlan_lexical; sms_graphic; spoken_register,0

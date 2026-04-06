@@ -1,0 +1,351 @@
+id,phenomenon,standard_sentence,informal_sentence,meaning_same,notes
+1,verlan,Je ne veux pas parler a cette femme ce soir.,Je veux pas parler a cette meuf ce soir.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+2,verlan,Je ne vais pas a la fete de mon frere demain.,Je vais pas a la teuf de mon reuf demain.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+3,verlan,Je ne trouve pas ce type tres bizarre au fond.,Je trouve pas ce mec tres zarbi au fond.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+4,verlan,Je ne peux pas laisser ce policier entrer dans la maison.,Je peux pas laisser ce keuf entrer dans la zonmai.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+5,verlan,Je ne supporte plus ce cours tres penible.,Je supporte plus ce cours trop relou.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+6,verlan,Je ne veux pas appeler ma mere devant la police.,Je veux pas appeler ma reum devant les keufs.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+7,verlan,Je ne comprends pas pourquoi ce type est fou.,Je comprends pas pourquoi ce mec est ouf.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+8,verlan,Je ne garde pas mon argent dans cette maison.,Je garde pas ma thune dans cette zonmai.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+9,verlan,Je ne peux pas ecouter cette musique avec ce type.,Je peux pas ecouter cette zic avec ce mec.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+10,verlan,Je ne vais pas faire ce travail bizarre ce soir.,Je vais pas faire ce taf chelou ce soir.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+11,verlan,Je ne veux pas revoir ce policier apres la fete.,Je veux pas revoir ce keuf apres la teuf.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+12,verlan,Je ne peux pas suivre cette femme jusque chez elle.,Je peux pas suivre cette meuf jusque chez elle.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+13,verlan,Je ne trouve pas cette voiture tres jolie.,Je trouve pas cette caisse tres jolie.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+14,verlan,Je ne veux pas vendre ce materiel a ce type.,Je veux pas vendre ce matos a ce mec.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+15,verlan,Je ne sais pas pourquoi cette femme est si enervee.,Je sais pas pourquoi cette meuf est si venere.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+16,verlan,Je ne veux pas rester dans ce quartier etrange.,Je veux pas rester dans ce quartier chelou.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+17,verlan,Je ne peux pas parler a mon frere pendant le travail.,Je peux pas parler a mon reuf pendant le taf.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+18,verlan,Je ne comprends pas cette fete bizarre du tout.,Je comprends pas cette teuf zarbi du tout.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+19,verlan,Je ne veux pas donner ma voiture a ce policier.,Je veux pas donner ma caisse a ce keuf.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+20,verlan,Je ne vais pas laisser ce type fou entrer ici.,Je vais pas laisser ce mec ouf entrer ici.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+21,verlan,Tu ne parles pas a cette femme comme ca.,Tu parles pas a cette meuf comme ca.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+22,verlan,Tu ne vas pas a la fete sans ton frere.,Tu vas pas a la teuf sans ton reuf.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+23,verlan,Tu ne trouves pas ce policier bizarre ?,Tu trouves pas ce keuf zarbi ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+24,verlan,"Tu ne gardes pas ton argent dans la maison, j'espere.","Tu gardes pas ta thune dans la zonmai, j'espere.",1,synthetic balanced example; verlan/youth slang lexical substitutions
+25,verlan,Tu ne veux pas suivre ce type etrange ce soir.,Tu veux pas suivre ce mec chelou ce soir.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+26,verlan,Tu ne peux pas appeler la police maintenant.,Tu peux pas appeler les keufs maintenant.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+27,verlan,Tu ne laisses pas ta mere avec ce type fou.,Tu laisses pas ta reum avec ce mec ouf.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+28,verlan,Tu ne veux pas quitter ce travail penible ?,Tu veux pas quitter ce taf relou ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+29,verlan,Tu ne comprends pas cette femme bizarre ?,Tu comprends pas cette meuf zarbi ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+30,verlan,Tu ne vas pas vendre cette voiture a ton frere.,Tu vas pas vendre cette caisse a ton reuf.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+31,verlan,Est-ce que tu veux parler a cette femme apres la fete ?,Est-ce que tu veux parler a cette meuf apres la teuf ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+32,verlan,Est-ce que tu peux aider ton frere avec ce travail penible ?,Est-ce que tu peux aider ton reuf avec ce taf relou ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+33,verlan,Est-ce que tu trouves ce policier vraiment etrange ?,Est-ce que tu trouves ce keuf vraiment chelou ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+34,verlan,Est-ce que tu vas laisser ton argent dans la maison ?,Est-ce que tu vas laisser ta thune dans la zonmai ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+35,verlan,Est-ce que tu ecoutes cette musique avec ce type ?,Est-ce que tu ecoutes cette zic avec ce mec ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+36,verlan,Est-ce que tu veux revoir ma mere apres le travail ?,Est-ce que tu veux revoir ma reum apres le taf ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+37,verlan,Est-ce que tu peux calmer cette femme tres enervee ?,Est-ce que tu peux calmer cette meuf tres venere ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+38,verlan,Est-ce que tu vas prevenir la police pour cette fete ?,Est-ce que tu vas prevenir les keufs pour cette teuf ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+39,verlan,Est-ce que tu connais ce quartier vraiment bizarre ?,Est-ce que tu connais ce quartier vraiment chelou ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+40,verlan,Est-ce que tu veux acheter ce materiel a ce type ?,Est-ce que tu veux acheter ce matos a ce mec ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+41,verlan,Il y a une femme etrange devant la maison.,Il y a une meuf chelou devant la zonmai.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+42,verlan,Il y a un policier pres de la fete ce soir.,Il y a un keuf pres de la teuf ce soir.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+43,verlan,Il y a trop d'argent dans la voiture de mon frere.,Il y a trop de thune dans la caisse de mon reuf.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+44,verlan,Il y a une musique penible dans ce quartier.,Il y a une zic relou dans ce quartier.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+45,verlan,Il y a un type fou devant le travail de ma mere.,Il y a un mec ouf devant le taf de ma reum.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+46,verlan,Je ne veux pas que ce policier parle a cette femme.,Je veux pas que ce keuf parle a cette meuf.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+47,verlan,Est-ce que tu peux ramener mon frere a la maison ?,Est-ce que tu peux ramener mon reuf a la zonmai ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+48,verlan,Il y a une fete bizarre chez ce type.,Il y a une teuf chelou chez ce mec.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+49,verlan,Je ne vais pas preter mon argent a cette femme.,Je vais pas preter ma thune a cette meuf.,1,synthetic balanced example; verlan/youth slang lexical substitutions
+50,verlan,Est-ce que tu veux ecouter cette musique avec ton frere ce soir ?,Est-ce que tu veux ecouter cette zic avec ton reuf ce soir ?,1,synthetic balanced example; verlan/youth slang lexical substitutions
+51,sms,Je ne veux pas parler a cette femme ce soir.,Je ne veux pas parler a cette fem ce soir,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+52,sms,Je ne vais pas a la fete de mon frere demain.,Je ne vais pas a la fete de mon frr dem1,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+53,sms,Je ne trouve pas ce type tres bizarre au fond.,Je ne trouve pas ce type tres bizarre au fond,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+54,sms,Je ne peux pas laisser ce policier entrer dans la maison.,Je ne peux pas laisser ce policier entrer dans la maison,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+55,sms,Je ne supporte plus ce cours tres penible.,Je ne supporte plus ce cours tres penible,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+56,sms,Je ne veux pas appeler ma mere devant la police.,Je ne veux pas appeler ma mer devant la police,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+57,sms,Je ne comprends pas pourquoi ce type est fou.,Je ne comprends pas pk ce type est fou,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+58,sms,Je ne garde pas mon argent dans cette maison.,Je ne garde pas mon argent dans cette maison,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+59,sms,Je ne peux pas ecouter cette musique avec ce type.,Je ne peux pas ecouter cette muzik avc ce type,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+60,sms,Je ne vais pas faire ce travail bizarre ce soir.,Je ne vais pas faire ce travail bizarre ce soir,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+61,sms,Je ne veux pas revoir ce policier apres la fete.,Je ne veux pas revoir ce policier apres la fete,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+62,sms,Je ne peux pas suivre cette femme jusque chez elle.,Je ne peux pas suivre cette fem jusque chez elle,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+63,sms,Je ne trouve pas cette voiture tres jolie.,Je ne trouve pas cette voiture tres jolie,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+64,sms,Je ne veux pas vendre ce materiel a ce type.,Je ne veux pas vendre ce materiel a ce type,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+65,sms,Je ne sais pas pourquoi cette femme est si enervee.,Je ne sais pas pk cette fem est si enervee,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+66,sms,Je ne veux pas rester dans ce quartier etrange.,Je ne veux pas rester dans ce qartier etrange,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+67,sms,Je ne peux pas parler a mon frere pendant le travail.,Je ne peux pas parler a mon frr pendant le travail,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+68,sms,Je ne comprends pas cette fete bizarre du tout.,Je ne comprends pas cette fete bizarre du tout,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+69,sms,Je ne veux pas donner ma voiture a ce policier.,Je ne veux pas donner ma voiture a ce policier,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+70,sms,Je ne vais pas laisser ce type fou entrer ici.,Je ne vais pas laisser ce type fou entrer ici,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+71,sms,Tu ne parles pas a cette femme comme ca.,Tu ne parles pas a cette fem comme ca,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+72,sms,Tu ne vas pas a la fete sans ton frere.,Tu ne vas pas a la fete sans ton frr,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+73,sms,Tu ne trouves pas ce policier bizarre ?,Tu ne trouves pas ce policier bizarre,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+74,sms,"Tu ne gardes pas ton argent dans la maison, j'espere.","Tu ne gardes pas ton argent dans la maison, j'espere",1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+75,sms,Tu ne veux pas suivre ce type etrange ce soir.,Tu ne veux pas suivre ce type etrange ce soir,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+76,sms,Tu ne peux pas appeler la police maintenant.,Tu ne peux pas appeler la police mnt,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+77,sms,Tu ne laisses pas ta mere avec ce type fou.,Tu ne laisses pas ta mer avc ce type fou,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+78,sms,Tu ne veux pas quitter ce travail penible ?,Tu ne veux pas quitter ce travail penible,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+79,sms,Tu ne comprends pas cette femme bizarre ?,Tu ne comprends pas cette fem bizarre,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+80,sms,Tu ne vas pas vendre cette voiture a ton frere.,Tu ne vas pas vendre cette voiture a ton frr,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+81,sms,Est-ce que tu veux parler a cette femme apres la fete ?,Est-ce que tu veux parler a cette fem apres la fete,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+82,sms,Est-ce que tu peux aider ton frere avec ce travail penible ?,Est-ce que tu peux aider ton frr avc ce travail penible,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+83,sms,Est-ce que tu trouves ce policier vraiment etrange ?,Est-ce que tu trouves ce policier vraiment etrange,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+84,sms,Est-ce que tu vas laisser ton argent dans la maison ?,Est-ce que tu vas laisser ton argent dans la maison,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+85,sms,Est-ce que tu ecoutes cette musique avec ce type ?,Est-ce que tu ecoutes cette muzik avc ce type,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+86,sms,Est-ce que tu veux revoir ma mere apres le travail ?,Est-ce que tu veux revoir ma mer apres le travail,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+87,sms,Est-ce que tu peux calmer cette femme tres enervee ?,Est-ce que tu peux calmer cette fem tres enervee,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+88,sms,Est-ce que tu vas prevenir la police pour cette fete ?,Est-ce que tu vas prevenir la police pour cette fete,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+89,sms,Est-ce que tu connais ce quartier vraiment bizarre ?,Est-ce que tu connais ce qartier vraiment bizarre,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+90,sms,Est-ce que tu veux acheter ce materiel a ce type ?,Est-ce que tu veux acheter ce materiel a ce type,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+91,sms,Il y a une femme etrange devant la maison.,Il y a une fem etrange devant la maison,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+92,sms,Il y a un policier pres de la fete ce soir.,Il y a un policier pres de la fete ce soir,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+93,sms,Il y a trop d'argent dans la voiture de mon frere.,Il y a trop d'argent dans la voiture de mon frr,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+94,sms,Il y a une musique penible dans ce quartier.,Il y a une muzik penible dans ce qartier,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+95,sms,Il y a un type fou devant le travail de ma mere.,Il y a un type fou devant le travail de ma mer,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+96,sms,Je ne veux pas que ce policier parle a cette femme.,Je ne veux pas que ce policier parle a cette fem,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+97,sms,Est-ce que tu peux ramener mon frere a la maison ?,Est-ce que tu peux ramener mon frr a la maison,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+98,sms,Il y a une fete bizarre chez ce type.,Il y a une fete bizarre chez ce type,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+99,sms,Je ne vais pas preter mon argent a cette femme.,Je ne vais pas preter mon argent a cette fem,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+100,sms,Est-ce que tu veux ecouter cette musique avec ton frere ce soir ?,Est-ce que tu veux ecouter cette muzik avc ton frr ce soir,1,synthetic balanced example; sms-style written abbreviations and punctuation drop
+101,spoken,Je ne veux pas parler a cette femme ce soir.,J'veux pas parler a cette femme ce soir.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+102,spoken,Je ne vais pas a la fete de mon frere demain.,J'vais pas a la fete de mon frere demain.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+103,spoken,Je ne trouve pas ce type tres bizarre au fond.,J'trouve pas ce type tres bizarre au fond.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+104,spoken,Je ne peux pas laisser ce policier entrer dans la maison.,J'peux pas laisser ce policier entrer dans la maison.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+105,spoken,Je ne supporte plus ce cours tres penible.,J'supporte plus ce cours tres penible.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+106,spoken,Je ne veux pas appeler ma mere devant la police.,J'veux pas appeler ma mere devant la police.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+107,spoken,Je ne comprends pas pourquoi ce type est fou.,J'comprends pas pourquoi ce type est fou.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+108,spoken,Je ne garde pas mon argent dans cette maison.,J'garde pas mon argent dans cette maison.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+109,spoken,Je ne peux pas ecouter cette musique avec ce type.,J'peux pas ecouter cette musique avec ce type.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+110,spoken,Je ne vais pas faire ce travail bizarre ce soir.,J'vais pas faire ce travail bizarre ce soir.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+111,spoken,Je ne veux pas revoir ce policier apres la fete.,J'veux pas revoir ce policier apres la fete.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+112,spoken,Je ne peux pas suivre cette femme jusque chez elle.,J'peux pas suivre cette femme jusque chez elle.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+113,spoken,Je ne trouve pas cette voiture tres jolie.,J'trouve pas cette voiture tres jolie.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+114,spoken,Je ne veux pas vendre ce materiel a ce type.,J'veux pas vendre ce materiel a ce type.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+115,spoken,Je ne sais pas pourquoi cette femme est si enervee.,J'sais pas pourquoi cette femme est si enervee.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+116,spoken,Je ne veux pas rester dans ce quartier etrange.,J'veux pas rester dans ce quartier etrange.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+117,spoken,Je ne peux pas parler a mon frere pendant le travail.,J'peux pas parler a mon frere pendant le travail.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+118,spoken,Je ne comprends pas cette fete bizarre du tout.,J'comprends pas cette fete bizarre du tout.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+119,spoken,Je ne veux pas donner ma voiture a ce policier.,J'veux pas donner ma voiture a ce policier.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+120,spoken,Je ne vais pas laisser ce type fou entrer ici.,J'vais pas laisser ce type fou entrer ici.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+121,spoken,Tu ne parles pas a cette femme comme ca.,T'parles pas a cette femme comme ca.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+122,spoken,Tu ne vas pas a la fete sans ton frere.,T'vas pas a la fete sans ton frere.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+123,spoken,Tu ne trouves pas ce policier bizarre ?,T'trouves pas ce policier bizarre?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+124,spoken,"Tu ne gardes pas ton argent dans la maison, j'espere.","T'gardes pas ton argent dans la maison, j'espere.",1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+125,spoken,Tu ne veux pas suivre ce type etrange ce soir.,T'veux pas suivre ce type etrange ce soir.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+126,spoken,Tu ne peux pas appeler la police maintenant.,T'peux pas appeler la police maintenant.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+127,spoken,Tu ne laisses pas ta mere avec ce type fou.,T'laisses pas ta mere avec ce type fou.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+128,spoken,Tu ne veux pas quitter ce travail penible ?,T'veux pas quitter ce travail penible?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+129,spoken,Tu ne comprends pas cette femme bizarre ?,T'comprends pas cette femme bizarre?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+130,spoken,Tu ne vas pas vendre cette voiture a ton frere.,T'vas pas vendre cette voiture a ton frere.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+131,spoken,Est-ce que tu veux parler a cette femme apres la fete ?,T'veux parler a cette femme apres la fete?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+132,spoken,Est-ce que tu peux aider ton frere avec ce travail penible ?,T'peux aider ton frere avec ce travail penible?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+133,spoken,Est-ce que tu trouves ce policier vraiment etrange ?,T'trouves ce policier vraiment etrange?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+134,spoken,Est-ce que tu vas laisser ton argent dans la maison ?,T'vas laisser ton argent dans la maison?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+135,spoken,Est-ce que tu ecoutes cette musique avec ce type ?,T'ecoutes cette musique avec ce type?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+136,spoken,Est-ce que tu veux revoir ma mere apres le travail ?,T'veux revoir ma mere apres le travail?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+137,spoken,Est-ce que tu peux calmer cette femme tres enervee ?,T'peux calmer cette femme tres enervee?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+138,spoken,Est-ce que tu vas prevenir la police pour cette fete ?,T'vas prevenir la police pour cette fete?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+139,spoken,Est-ce que tu connais ce quartier vraiment bizarre ?,T'connais ce quartier vraiment bizarre?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+140,spoken,Est-ce que tu veux acheter ce materiel a ce type ?,T'veux acheter ce materiel a ce type?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+141,spoken,Il y a une femme etrange devant la maison.,Y a une femme etrange devant la maison.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+142,spoken,Il y a un policier pres de la fete ce soir.,Y a un policier pres de la fete ce soir.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+143,spoken,Il y a trop d'argent dans la voiture de mon frere.,Y a trop d'argent dans la voiture de mon frere.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+144,spoken,Il y a une musique penible dans ce quartier.,Y a une musique penible dans ce quartier.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+145,spoken,Il y a un type fou devant le travail de ma mere.,Y a un type fou devant le travail de ma mere.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+146,spoken,Je ne veux pas que ce policier parle a cette femme.,J'veux pas que ce policier parle a cette femme.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+147,spoken,Est-ce que tu peux ramener mon frere a la maison ?,T'peux ramener mon frere a la maison?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+148,spoken,Il y a une fete bizarre chez ce type.,Y a une fete bizarre chez ce type.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+149,spoken,Je ne vais pas preter mon argent a cette femme.,J'vais pas preter mon argent a cette femme.,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+150,spoken,Est-ce que tu veux ecouter cette musique avec ton frere ce soir ?,T'veux ecouter cette musique avec ton frere ce soir?,1,"synthetic balanced example; spoken simplification, negation drop, and oral contractions"
+151,verlan_sms,Je ne veux pas parler a cette femme ce soir.,Je veux pas parler a cette meuf ce soir,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+152,verlan_sms,Je ne vais pas a la fete de mon frere demain.,Je vais pas a la teuf de mon reuf dem1,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+153,verlan_sms,Je ne trouve pas ce type tres bizarre au fond.,Je trouve pas ce mec tres zarbi au fond,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+154,verlan_sms,Je ne peux pas laisser ce policier entrer dans la maison.,Je peux pas laisser ce keuf entrer dans la zonmai,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+155,verlan_sms,Je ne supporte plus ce cours tres penible.,Je supporte plus ce cours trop relou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+156,verlan_sms,Je ne veux pas appeler ma mere devant la police.,Je veux pas appeler ma reum devant les keufs,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+157,verlan_sms,Je ne comprends pas pourquoi ce type est fou.,Je comprends pas pk ce mec est ouf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+158,verlan_sms,Je ne garde pas mon argent dans cette maison.,Je garde pas ma thune dans cette zonmai,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+159,verlan_sms,Je ne peux pas ecouter cette musique avec ce type.,Je peux pas ecouter cette zic avc ce mec,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+160,verlan_sms,Je ne vais pas faire ce travail bizarre ce soir.,Je vais pas faire ce taf chelou ce soir,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+161,verlan_sms,Je ne veux pas revoir ce policier apres la fete.,Je veux pas revoir ce keuf apres la teuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+162,verlan_sms,Je ne peux pas suivre cette femme jusque chez elle.,Je peux pas suivre cette meuf jusque chez elle,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+163,verlan_sms,Je ne trouve pas cette voiture tres jolie.,Je trouve pas cette caisse tres jolie,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+164,verlan_sms,Je ne veux pas vendre ce materiel a ce type.,Je veux pas vendre ce matos a ce mec,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+165,verlan_sms,Je ne sais pas pourquoi cette femme est si enervee.,Je sais pas pk cette meuf est si venere,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+166,verlan_sms,Je ne veux pas rester dans ce quartier etrange.,Je veux pas rester dans ce qartier chelou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+167,verlan_sms,Je ne peux pas parler a mon frere pendant le travail.,Je peux pas parler a mon reuf pendant le taf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+168,verlan_sms,Je ne comprends pas cette fete bizarre du tout.,Je comprends pas cette teuf zarbi du tout,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+169,verlan_sms,Je ne veux pas donner ma voiture a ce policier.,Je veux pas donner ma caisse a ce keuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+170,verlan_sms,Je ne vais pas laisser ce type fou entrer ici.,Je vais pas laisser ce mec ouf entrer ici,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+171,verlan_sms,Tu ne parles pas a cette femme comme ca.,Tu parles pas a cette meuf comme ca,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+172,verlan_sms,Tu ne vas pas a la fete sans ton frere.,Tu vas pas a la teuf sans ton reuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+173,verlan_sms,Tu ne trouves pas ce policier bizarre ?,Tu trouves pas ce keuf zarbi,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+174,verlan_sms,"Tu ne gardes pas ton argent dans la maison, j'espere.","Tu gardes pas ta thune dans la zonmai, j'espere",1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+175,verlan_sms,Tu ne veux pas suivre ce type etrange ce soir.,Tu veux pas suivre ce mec chelou ce soir,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+176,verlan_sms,Tu ne peux pas appeler la police maintenant.,Tu peux pas appeler les keufs mnt,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+177,verlan_sms,Tu ne laisses pas ta mere avec ce type fou.,Tu laisses pas ta reum avc ce mec ouf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+178,verlan_sms,Tu ne veux pas quitter ce travail penible ?,Tu veux pas quitter ce taf relou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+179,verlan_sms,Tu ne comprends pas cette femme bizarre ?,Tu comprends pas cette meuf zarbi,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+180,verlan_sms,Tu ne vas pas vendre cette voiture a ton frere.,Tu vas pas vendre cette caisse a ton reuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+181,verlan_sms,Est-ce que tu veux parler a cette femme apres la fete ?,Est-ce que tu veux parler a cette meuf apres la teuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+182,verlan_sms,Est-ce que tu peux aider ton frere avec ce travail penible ?,Est-ce que tu peux aider ton reuf avc ce taf relou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+183,verlan_sms,Est-ce que tu trouves ce policier vraiment etrange ?,Est-ce que tu trouves ce keuf vraiment chelou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+184,verlan_sms,Est-ce que tu vas laisser ton argent dans la maison ?,Est-ce que tu vas laisser ta thune dans la zonmai,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+185,verlan_sms,Est-ce que tu ecoutes cette musique avec ce type ?,Est-ce que tu ecoutes cette zic avc ce mec,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+186,verlan_sms,Est-ce que tu veux revoir ma mere apres le travail ?,Est-ce que tu veux revoir ma reum apres le taf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+187,verlan_sms,Est-ce que tu peux calmer cette femme tres enervee ?,Est-ce que tu peux calmer cette meuf tres venere,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+188,verlan_sms,Est-ce que tu vas prevenir la police pour cette fete ?,Est-ce que tu vas prevenir les keufs pour cette teuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+189,verlan_sms,Est-ce que tu connais ce quartier vraiment bizarre ?,Est-ce que tu connais ce qartier vraiment chelou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+190,verlan_sms,Est-ce que tu veux acheter ce materiel a ce type ?,Est-ce que tu veux acheter ce matos a ce mec,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+191,verlan_sms,Il y a une femme etrange devant la maison.,Il y a une meuf chelou devant la zonmai,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+192,verlan_sms,Il y a un policier pres de la fete ce soir.,Il y a un keuf pres de la teuf ce soir,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+193,verlan_sms,Il y a trop d'argent dans la voiture de mon frere.,Il y a trop de thune dans la caisse de mon reuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+194,verlan_sms,Il y a une musique penible dans ce quartier.,Il y a une zic relou dans ce qartier,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+195,verlan_sms,Il y a un type fou devant le travail de ma mere.,Il y a un mec ouf devant le taf de ma reum,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+196,verlan_sms,Je ne veux pas que ce policier parle a cette femme.,Je veux pas que ce keuf parle a cette meuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+197,verlan_sms,Est-ce que tu peux ramener mon frere a la maison ?,Est-ce que tu peux ramener mon reuf a la zonmai,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+198,verlan_sms,Il y a une fete bizarre chez ce type.,Il y a une teuf chelou chez ce mec,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+199,verlan_sms,Je ne vais pas preter mon argent a cette femme.,Je vais pas preter ma thune a cette meuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+200,verlan_sms,Est-ce que tu veux ecouter cette musique avec ton frere ce soir ?,Est-ce que tu veux ecouter cette zic avc ton reuf ce soir,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations
+201,verlan_spoken,Je ne veux pas parler a cette femme ce soir.,J'veux pas parler a cette meuf ce soir.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+202,verlan_spoken,Je ne vais pas a la fete de mon frere demain.,J'vais pas a la teuf de mon reuf demain.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+203,verlan_spoken,Je ne trouve pas ce type tres bizarre au fond.,J'trouve pas ce mec tres zarbi au fond.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+204,verlan_spoken,Je ne peux pas laisser ce policier entrer dans la maison.,J'peux pas laisser ce keuf entrer dans la zonmai.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+205,verlan_spoken,Je ne supporte plus ce cours tres penible.,J'supporte plus ce cours trop relou.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+206,verlan_spoken,Je ne veux pas appeler ma mere devant la police.,J'veux pas appeler ma reum devant les keufs.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+207,verlan_spoken,Je ne comprends pas pourquoi ce type est fou.,J'comprends pas pourquoi ce mec est ouf.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+208,verlan_spoken,Je ne garde pas mon argent dans cette maison.,J'garde pas ma thune dans cette zonmai.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+209,verlan_spoken,Je ne peux pas ecouter cette musique avec ce type.,J'peux pas ecouter cette zic avec ce mec.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+210,verlan_spoken,Je ne vais pas faire ce travail bizarre ce soir.,J'vais pas faire ce taf chelou ce soir.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+211,verlan_spoken,Je ne veux pas revoir ce policier apres la fete.,J'veux pas revoir ce keuf apres la teuf.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+212,verlan_spoken,Je ne peux pas suivre cette femme jusque chez elle.,J'peux pas suivre cette meuf jusque chez elle.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+213,verlan_spoken,Je ne trouve pas cette voiture tres jolie.,J'trouve pas cette caisse tres jolie.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+214,verlan_spoken,Je ne veux pas vendre ce materiel a ce type.,J'veux pas vendre ce matos a ce mec.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+215,verlan_spoken,Je ne sais pas pourquoi cette femme est si enervee.,J'sais pas pourquoi cette meuf est si venere.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+216,verlan_spoken,Je ne veux pas rester dans ce quartier etrange.,J'veux pas rester dans ce quartier chelou.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+217,verlan_spoken,Je ne peux pas parler a mon frere pendant le travail.,J'peux pas parler a mon reuf pendant le taf.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+218,verlan_spoken,Je ne comprends pas cette fete bizarre du tout.,J'comprends pas cette teuf zarbi du tout.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+219,verlan_spoken,Je ne veux pas donner ma voiture a ce policier.,J'veux pas donner ma caisse a ce keuf.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+220,verlan_spoken,Je ne vais pas laisser ce type fou entrer ici.,J'vais pas laisser ce mec ouf entrer ici.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+221,verlan_spoken,Tu ne parles pas a cette femme comme ca.,T'parles pas a cette meuf comme ca.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+222,verlan_spoken,Tu ne vas pas a la fete sans ton frere.,T'vas pas a la teuf sans ton reuf.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+223,verlan_spoken,Tu ne trouves pas ce policier bizarre ?,T'trouves pas ce keuf zarbi?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+224,verlan_spoken,"Tu ne gardes pas ton argent dans la maison, j'espere.","T'gardes pas ta thune dans la zonmai, j'espere.",1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+225,verlan_spoken,Tu ne veux pas suivre ce type etrange ce soir.,T'veux pas suivre ce mec chelou ce soir.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+226,verlan_spoken,Tu ne peux pas appeler la police maintenant.,T'peux pas appeler les keufs maintenant.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+227,verlan_spoken,Tu ne laisses pas ta mere avec ce type fou.,T'laisses pas ta reum avec ce mec ouf.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+228,verlan_spoken,Tu ne veux pas quitter ce travail penible ?,T'veux pas quitter ce taf relou?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+229,verlan_spoken,Tu ne comprends pas cette femme bizarre ?,T'comprends pas cette meuf zarbi?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+230,verlan_spoken,Tu ne vas pas vendre cette voiture a ton frere.,T'vas pas vendre cette caisse a ton reuf.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+231,verlan_spoken,Est-ce que tu veux parler a cette femme apres la fete ?,T'veux parler a cette meuf apres la teuf?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+232,verlan_spoken,Est-ce que tu peux aider ton frere avec ce travail penible ?,T'peux aider ton reuf avec ce taf relou?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+233,verlan_spoken,Est-ce que tu trouves ce policier vraiment etrange ?,T'trouves ce keuf vraiment chelou?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+234,verlan_spoken,Est-ce que tu vas laisser ton argent dans la maison ?,T'vas laisser ta thune dans la zonmai?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+235,verlan_spoken,Est-ce que tu ecoutes cette musique avec ce type ?,T'ecoutes cette zic avec ce mec?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+236,verlan_spoken,Est-ce que tu veux revoir ma mere apres le travail ?,T'veux revoir ma reum apres le taf?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+237,verlan_spoken,Est-ce que tu peux calmer cette femme tres enervee ?,T'peux calmer cette meuf tres venere?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+238,verlan_spoken,Est-ce que tu vas prevenir la police pour cette fete ?,T'vas prevenir les keufs pour cette teuf?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+239,verlan_spoken,Est-ce que tu connais ce quartier vraiment bizarre ?,T'connais ce quartier vraiment chelou?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+240,verlan_spoken,Est-ce que tu veux acheter ce materiel a ce type ?,T'veux acheter ce matos a ce mec?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+241,verlan_spoken,Il y a une femme etrange devant la maison.,Y a une meuf chelou devant la zonmai.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+242,verlan_spoken,Il y a un policier pres de la fete ce soir.,Y a un keuf pres de la teuf ce soir.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+243,verlan_spoken,Il y a trop d'argent dans la voiture de mon frere.,Y a trop de thune dans la caisse de mon reuf.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+244,verlan_spoken,Il y a une musique penible dans ce quartier.,Y a une zic relou dans ce quartier.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+245,verlan_spoken,Il y a un type fou devant le travail de ma mere.,Y a un mec ouf devant le taf de ma reum.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+246,verlan_spoken,Je ne veux pas que ce policier parle a cette femme.,J'veux pas que ce keuf parle a cette meuf.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+247,verlan_spoken,Est-ce que tu peux ramener mon frere a la maison ?,T'peux ramener mon reuf a la zonmai?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+248,verlan_spoken,Il y a une fete bizarre chez ce type.,Y a une teuf chelou chez ce mec.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+249,verlan_spoken,Je ne vais pas preter mon argent a cette femme.,J'vais pas preter ma thune a cette meuf.,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+250,verlan_spoken,Est-ce que tu veux ecouter cette musique avec ton frere ce soir ?,T'veux ecouter cette zic avec ton reuf ce soir?,1,synthetic balanced example; verlan lexical substitutions + spoken simplification
+251,sms_spoken,Je ne veux pas parler a cette femme ce soir.,J'veux pas parler a cette fem ce soir,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+252,sms_spoken,Je ne vais pas a la fete de mon frere demain.,J'vais pas a la fete de mon frr dem1,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+253,sms_spoken,Je ne trouve pas ce type tres bizarre au fond.,J'trouve pas ce type tres bizarre au fond,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+254,sms_spoken,Je ne peux pas laisser ce policier entrer dans la maison.,J'peux pas laisser ce policier entrer dans la maison,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+255,sms_spoken,Je ne supporte plus ce cours tres penible.,J'supporte plus ce cours tres penible,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+256,sms_spoken,Je ne veux pas appeler ma mere devant la police.,J'veux pas appeler ma mer devant la police,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+257,sms_spoken,Je ne comprends pas pourquoi ce type est fou.,J'comprends pas pk ce type est fou,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+258,sms_spoken,Je ne garde pas mon argent dans cette maison.,J'garde pas mon argent dans cette maison,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+259,sms_spoken,Je ne peux pas ecouter cette musique avec ce type.,J'peux pas ecouter cette muzik avc ce type,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+260,sms_spoken,Je ne vais pas faire ce travail bizarre ce soir.,J'vais pas faire ce travail bizarre ce soir,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+261,sms_spoken,Je ne veux pas revoir ce policier apres la fete.,J'veux pas revoir ce policier apres la fete,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+262,sms_spoken,Je ne peux pas suivre cette femme jusque chez elle.,J'peux pas suivre cette fem jusque chez elle,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+263,sms_spoken,Je ne trouve pas cette voiture tres jolie.,J'trouve pas cette voiture tres jolie,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+264,sms_spoken,Je ne veux pas vendre ce materiel a ce type.,J'veux pas vendre ce materiel a ce type,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+265,sms_spoken,Je ne sais pas pourquoi cette femme est si enervee.,J'sais pas pk cette fem est si enervee,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+266,sms_spoken,Je ne veux pas rester dans ce quartier etrange.,J'veux pas rester dans ce qartier etrange,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+267,sms_spoken,Je ne peux pas parler a mon frere pendant le travail.,J'peux pas parler a mon frr pendant le travail,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+268,sms_spoken,Je ne comprends pas cette fete bizarre du tout.,J'comprends pas cette fete bizarre du tout,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+269,sms_spoken,Je ne veux pas donner ma voiture a ce policier.,J'veux pas donner ma voiture a ce policier,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+270,sms_spoken,Je ne vais pas laisser ce type fou entrer ici.,J'vais pas laisser ce type fou entrer ici,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+271,sms_spoken,Tu ne parles pas a cette femme comme ca.,T'parles pas a cette fem comme ca,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+272,sms_spoken,Tu ne vas pas a la fete sans ton frere.,T'vas pas a la fete sans ton frr,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+273,sms_spoken,Tu ne trouves pas ce policier bizarre ?,T'trouves pas ce policier bizarre,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+274,sms_spoken,"Tu ne gardes pas ton argent dans la maison, j'espere.","T'gardes pas ton argent dans la maison, j'espere",1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+275,sms_spoken,Tu ne veux pas suivre ce type etrange ce soir.,T'veux pas suivre ce type etrange ce soir,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+276,sms_spoken,Tu ne peux pas appeler la police maintenant.,T'peux pas appeler la police mnt,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+277,sms_spoken,Tu ne laisses pas ta mere avec ce type fou.,T'laisses pas ta mer avc ce type fou,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+278,sms_spoken,Tu ne veux pas quitter ce travail penible ?,T'veux pas quitter ce travail penible,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+279,sms_spoken,Tu ne comprends pas cette femme bizarre ?,T'comprends pas cette fem bizarre,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+280,sms_spoken,Tu ne vas pas vendre cette voiture a ton frere.,T'vas pas vendre cette voiture a ton frr,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+281,sms_spoken,Est-ce que tu veux parler a cette femme apres la fete ?,T'veux parler a cette fem apres la fete,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+282,sms_spoken,Est-ce que tu peux aider ton frere avec ce travail penible ?,T'peux aider ton frr avc ce travail penible,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+283,sms_spoken,Est-ce que tu trouves ce policier vraiment etrange ?,T'trouves ce policier vraiment etrange,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+284,sms_spoken,Est-ce que tu vas laisser ton argent dans la maison ?,T'vas laisser ton argent dans la maison,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+285,sms_spoken,Est-ce que tu ecoutes cette musique avec ce type ?,T'ecoutes cette muzik avc ce type,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+286,sms_spoken,Est-ce que tu veux revoir ma mere apres le travail ?,T'veux revoir ma mer apres le travail,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+287,sms_spoken,Est-ce que tu peux calmer cette femme tres enervee ?,T'peux calmer cette fem tres enervee,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+288,sms_spoken,Est-ce que tu vas prevenir la police pour cette fete ?,T'vas prevenir la police pour cette fete,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+289,sms_spoken,Est-ce que tu connais ce quartier vraiment bizarre ?,T'connais ce qartier vraiment bizarre,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+290,sms_spoken,Est-ce que tu veux acheter ce materiel a ce type ?,T'veux acheter ce materiel a ce type,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+291,sms_spoken,Il y a une femme etrange devant la maison.,Y a une fem etrange devant la maison,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+292,sms_spoken,Il y a un policier pres de la fete ce soir.,Y a un policier pres de la fete ce soir,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+293,sms_spoken,Il y a trop d'argent dans la voiture de mon frere.,Y a trop d'argent dans la voiture de mon frr,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+294,sms_spoken,Il y a une musique penible dans ce quartier.,Y a une muzik penible dans ce qartier,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+295,sms_spoken,Il y a un type fou devant le travail de ma mere.,Y a un type fou devant le travail de ma mer,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+296,sms_spoken,Je ne veux pas que ce policier parle a cette femme.,J'veux pas que ce policier parle a cette fem,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+297,sms_spoken,Est-ce que tu peux ramener mon frere a la maison ?,T'peux ramener mon frr a la maison,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+298,sms_spoken,Il y a une fete bizarre chez ce type.,Y a une fete bizarre chez ce type,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+299,sms_spoken,Je ne vais pas preter mon argent a cette femme.,J'vais pas preter mon argent a cette fem,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+300,sms_spoken,Est-ce que tu veux ecouter cette musique avec ton frere ce soir ?,T'veux ecouter cette muzik avc ton frr ce soir,1,synthetic balanced example; sms-style written abbreviations + spoken simplification
+301,verlan_sms_spoken,Je ne veux pas parler a cette femme ce soir.,J'veux pas parler a cette meuf ce soir,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+302,verlan_sms_spoken,Je ne vais pas a la fete de mon frere demain.,J'vais pas a la teuf de mon reuf dem1,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+303,verlan_sms_spoken,Je ne trouve pas ce type tres bizarre au fond.,J'trouve pas ce mec tres zarbi au fond,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+304,verlan_sms_spoken,Je ne peux pas laisser ce policier entrer dans la maison.,J'peux pas laisser ce keuf entrer dans la zonmai,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+305,verlan_sms_spoken,Je ne supporte plus ce cours tres penible.,J'supporte plus ce cours trop relou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+306,verlan_sms_spoken,Je ne veux pas appeler ma mere devant la police.,J'veux pas appeler ma reum devant les keufs,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+307,verlan_sms_spoken,Je ne comprends pas pourquoi ce type est fou.,J'comprends pas pk ce mec est ouf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+308,verlan_sms_spoken,Je ne garde pas mon argent dans cette maison.,J'garde pas ma thune dans cette zonmai,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+309,verlan_sms_spoken,Je ne peux pas ecouter cette musique avec ce type.,J'peux pas ecouter cette zic avc ce mec,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+310,verlan_sms_spoken,Je ne vais pas faire ce travail bizarre ce soir.,J'vais pas faire ce taf chelou ce soir,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+311,verlan_sms_spoken,Je ne veux pas revoir ce policier apres la fete.,J'veux pas revoir ce keuf apres la teuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+312,verlan_sms_spoken,Je ne peux pas suivre cette femme jusque chez elle.,J'peux pas suivre cette meuf jusque chez elle,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+313,verlan_sms_spoken,Je ne trouve pas cette voiture tres jolie.,J'trouve pas cette caisse tres jolie,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+314,verlan_sms_spoken,Je ne veux pas vendre ce materiel a ce type.,J'veux pas vendre ce matos a ce mec,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+315,verlan_sms_spoken,Je ne sais pas pourquoi cette femme est si enervee.,J'sais pas pk cette meuf est si venere,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+316,verlan_sms_spoken,Je ne veux pas rester dans ce quartier etrange.,J'veux pas rester dans ce qartier chelou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+317,verlan_sms_spoken,Je ne peux pas parler a mon frere pendant le travail.,J'peux pas parler a mon reuf pendant le taf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+318,verlan_sms_spoken,Je ne comprends pas cette fete bizarre du tout.,J'comprends pas cette teuf zarbi du tout,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+319,verlan_sms_spoken,Je ne veux pas donner ma voiture a ce policier.,J'veux pas donner ma caisse a ce keuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+320,verlan_sms_spoken,Je ne vais pas laisser ce type fou entrer ici.,J'vais pas laisser ce mec ouf entrer ici,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+321,verlan_sms_spoken,Tu ne parles pas a cette femme comme ca.,T'parles pas a cette meuf comme ca,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+322,verlan_sms_spoken,Tu ne vas pas a la fete sans ton frere.,T'vas pas a la teuf sans ton reuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+323,verlan_sms_spoken,Tu ne trouves pas ce policier bizarre ?,T'trouves pas ce keuf zarbi,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+324,verlan_sms_spoken,"Tu ne gardes pas ton argent dans la maison, j'espere.","T'gardes pas ta thune dans la zonmai, j'espere",1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+325,verlan_sms_spoken,Tu ne veux pas suivre ce type etrange ce soir.,T'veux pas suivre ce mec chelou ce soir,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+326,verlan_sms_spoken,Tu ne peux pas appeler la police maintenant.,T'peux pas appeler les keufs mnt,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+327,verlan_sms_spoken,Tu ne laisses pas ta mere avec ce type fou.,T'laisses pas ta reum avc ce mec ouf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+328,verlan_sms_spoken,Tu ne veux pas quitter ce travail penible ?,T'veux pas quitter ce taf relou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+329,verlan_sms_spoken,Tu ne comprends pas cette femme bizarre ?,T'comprends pas cette meuf zarbi,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+330,verlan_sms_spoken,Tu ne vas pas vendre cette voiture a ton frere.,T'vas pas vendre cette caisse a ton reuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+331,verlan_sms_spoken,Est-ce que tu veux parler a cette femme apres la fete ?,T'veux parler a cette meuf apres la teuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+332,verlan_sms_spoken,Est-ce que tu peux aider ton frere avec ce travail penible ?,T'peux aider ton reuf avc ce taf relou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+333,verlan_sms_spoken,Est-ce que tu trouves ce policier vraiment etrange ?,T'trouves ce keuf vraiment chelou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+334,verlan_sms_spoken,Est-ce que tu vas laisser ton argent dans la maison ?,T'vas laisser ta thune dans la zonmai,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+335,verlan_sms_spoken,Est-ce que tu ecoutes cette musique avec ce type ?,T'ecoutes cette zic avc ce mec,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+336,verlan_sms_spoken,Est-ce que tu veux revoir ma mere apres le travail ?,T'veux revoir ma reum apres le taf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+337,verlan_sms_spoken,Est-ce que tu peux calmer cette femme tres enervee ?,T'peux calmer cette meuf tres venere,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+338,verlan_sms_spoken,Est-ce que tu vas prevenir la police pour cette fete ?,T'vas prevenir les keufs pour cette teuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+339,verlan_sms_spoken,Est-ce que tu connais ce quartier vraiment bizarre ?,T'connais ce qartier vraiment chelou,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+340,verlan_sms_spoken,Est-ce que tu veux acheter ce materiel a ce type ?,T'veux acheter ce matos a ce mec,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+341,verlan_sms_spoken,Il y a une femme etrange devant la maison.,Y a une meuf chelou devant la zonmai,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+342,verlan_sms_spoken,Il y a un policier pres de la fete ce soir.,Y a un keuf pres de la teuf ce soir,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+343,verlan_sms_spoken,Il y a trop d'argent dans la voiture de mon frere.,Y a trop de thune dans la caisse de mon reuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+344,verlan_sms_spoken,Il y a une musique penible dans ce quartier.,Y a une zic relou dans ce qartier,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+345,verlan_sms_spoken,Il y a un type fou devant le travail de ma mere.,Y a un mec ouf devant le taf de ma reum,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+346,verlan_sms_spoken,Je ne veux pas que ce policier parle a cette femme.,J'veux pas que ce keuf parle a cette meuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+347,verlan_sms_spoken,Est-ce que tu peux ramener mon frere a la maison ?,T'peux ramener mon reuf a la zonmai,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+348,verlan_sms_spoken,Il y a une fete bizarre chez ce type.,Y a une teuf chelou chez ce mec,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+349,verlan_sms_spoken,Je ne vais pas preter mon argent a cette femme.,J'vais pas preter ma thune a cette meuf,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
+350,verlan_sms_spoken,Est-ce que tu veux ecouter cette musique avec ton frere ce soir ?,T'veux ecouter cette zic avc ton reuf ce soir,1,synthetic balanced example; verlan lexical substitutions + sms-style written abbreviations + spoken simplification
